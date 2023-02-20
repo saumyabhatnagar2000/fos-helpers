@@ -1,0 +1,245 @@
+${packageJson.version}-dev      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/config/index.ts
+Logged-in to CG collect as an employee of ${selectedCompanyData?.companyName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
+v${config.VERSION}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
+ No ${activetab} history found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
+View ${
+                                                            showAllTransactions
+                                                                ? "Less"
+                                                                : "More"
+                                                        }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
+Redirected to error boundary      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ErrorBoundary.tsx
+${allocationMonth}_address_data      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/Keys.ts
+The app needs Location Permission.\nPlease grant Location Permission, else you won't be able to use the app.\n\nFor granting location permission choose Permissions->Location->(Allow all the time) and Restart app.       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+This features needs location permission.\nPlease grant Location Permission,else you won't be able to use this feature.\n\nGrant the feature and reload the screen to use the feature      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+{otp} is your OTP to approve the collection of Rs. ${amount} received on ${visit_date},  against the loan ${loan_id} issued from ${companyName}. Please do not share the OTP with anyone other than the authorized collection representative ${name}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+Hi,
+{otp} is your OTP to approve the collection of Rs. ${amount} received on ${visit_date},  against the loan ${loan_id} issued from ${companyName}. Please do not share the OTP with anyone other than the authorized collection representative ${name}.
+Sent by
+Credgenics      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+This device is rooted.\nYou can't use the app in a rooted device.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+You can't select new visits in an already planned route. Reset to make modifications to the route!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+{otp} is your OTP to approve the Deposit of Rs.${depositAmount}, received on ${depositDate}, from agent ${agentName} . Please do not share the OTP with anyone other than the authorised collection agent! -Credgenics      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
+${currencySymbol + " " + getStr(amount)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
+${currencySymbol + " " + "0"}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
+${deviceIdGlobal || deviceId}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
+${deviceNameGlobal || deviceName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
+${FOS_SERVICE_BASE_URL}/visit/edit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
+${FOS_SERVICE_BASE_URL}/visit/cancel      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
+${FOS_SERVICE_BASE_URL}/visit/close      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
+useDispatch      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/hooks.ts
+useSelector      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/hooks.ts
+ No ${activetab} history found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
+Feedback ${isPrefilledFrom ? "Responses" : "Form"}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
+ Going online!\n Do not close the app to prevent data loss      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/SyncScreen.tsx
+${distance} KM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+tel:${phoneNumber}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+${Date.now()}_${name}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+${dirs.DownloadDir}/CG_Collect_${Date.now()}_${name}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+${d.getDate()} ${monthNames[d.getMonth()]}, ${d.getFullYear()}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+${extraKey}${key}.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+mailto:${SUPPORT_EMAIL}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+&${keyName}=${keyValue ?? ""}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
+${data?.houseNumber} ${
+                data?.floor ? data?.floor + "," : ""
+            }${data?.towerName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
+${apidData.applicant_address_text},${data?.city}${data?.landmark} ,${data?.state} ${data?.pincode}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
+dayHeader-${i}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
+Logged-in to CG collect as an employee of ${selectedCompanyData?.companyName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
+${2 - failureCounter} chance remaining.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
+Logged-in to CG collect as an employee of ${selectedCompanyData?.companyName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
+${moment(date.first_date).format("DD MMM")}-${moment(
+            date.last_date
+        ).format("DD MMM")}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
+Call cannot be placed at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTasksComponent.tsx
+Enter New ${
+                        otpType == OTP_TYPES.email
+                            ? "Email Address"
+                            : "Phone Number"
+                    }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Address cannot be made primary at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+${
+                                          convertedOtherAddress?.address_text
+                                              ? convertedOtherAddress?.address_text +
+                                                ","
+                                              : ""
+                                      } ${
+                                          convertedOtherAddress?.city
+                                              ? convertedOtherAddress?.city +
+                                                ","
+                                              : ""
+                                      } ${
+                                          convertedOtherAddress?.landmark
+                                              ? convertedOtherAddress?.landmark +
+                                                ","
+                                              : ""
+                                      } ${
+                                          convertedOtherAddress?.state
+                                              ? convertedOtherAddress?.state +
+                                                ","
+                                              : ""
+                                      } ${convertedOtherAddress?.pincode ?? ""}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+${
+                                          convertedOtherAddress?.latitude
+                                              ? convertedOtherAddress?.latitude +
+                                                ","
+                                              : ""
+                                      } ${
+                                          convertedOtherAddress?.longitude
+                                              ? convertedOtherAddress?.longitude +
+                                                ","
+                                              : ""
+                                      }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
++   Add address via form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Last Visited on ${
+                                            lastVisited?.visit_date ?? ""
+                                        }       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+${countryIsdCode}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Enter new phone number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+No. of Days      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/LateFeesBottomSheet.tsx
+${currencySymbol} ${lateFees}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/LateFeesBottomSheet.tsx
+${currencySymbol}0      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/LateFeesBottomSheet.tsx
+No ${capitalizeFirstLetter(
+                            branchType
+                        )} Branch Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositBranchList.tsx
+${getOnlyDate(rowData.created)}  |  ${
+                                    rowData.loan_id
+                                }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingCreditRow.tsx
+ Make Deposit:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
+${getOnlyDate(rowData.created)}  |  ${
+                                rowData.loan_id
+                            }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingRow.tsx
+Deposit cannot be submitted at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Unable to send the OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+${keyConverter(key)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/SelectedBranchListItem.tsx
+${reminderDate} ${apiRemindertime}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+${reminderDate} ${apiRemindertime}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+${reminderDate} ${apiRemindertime}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+${applicantName ?? ""},${
+                            companyType == CompanyType.loan
+                                ? "Loan Id: "
+                                : "Customer Id: "
+                        } ${loanId}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+${TaskStatusTypes.closed},${TaskStatusTypes.cancelled},${TaskStatusTypes.pending}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
+Remove Loan IDs ${closedLoanIDs.join(
+                              ", "
+                          )} from selection to proceed as loans are closed.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/ActionButton.tsx
+Remove Loan ID ${closedLoanIDs.join(
+                              ", "
+                          )} from selection to proceed as loan is closed.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/ActionButton.tsx
+Visit cannot be scheduled at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/ActionButton.tsx
+${activeFilterType}-${filterText}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
+${currencySymbol}       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+${currencySymbol}       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Call cannot be placed at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
+Transactions: ${
+                                            rowData?.number_of_transactions ??
+                                            "NA"
+                                        }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
+ID: ${rowData.loan_id ?? "NA"}  |  DPD: ${
+                                        rowData?.dpd ?? "-"
+                                    }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
+${getOnlyDistance(rowData.distance_in_km)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
+Filters(${filterLength})      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Filter      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+YYYY-MM-${selectedDate}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
+YYYY-MM-${selectedDate}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
+Call cannot be placed at ‘Overall’ allocation month, please select an individual month.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
+YYYY-MM-${selectedDate}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
+YYYY-MM-${selectedDate}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
+For eg. HDFC      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
+For eg. Sector 12      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
+${
+                                type == OtpVerifyTypes.visit
+                                    ? "Collection"
+                                    : "Deposit"
+                            } Done Successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
+${moment(customSelectedDate.firstDate).format(
+                "DD MMM"
+            )} - ${moment(customSelectedDate.lastDate).format("DD MMM")}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFilters.tsx
+Filters(${totalFilters})      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
+Filter      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
+No visits found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
+${
+                                        !routePlanningResume ? "Plan" : "Resume"
+                                    } route      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
+ID: ${rowData.loan_id ?? "NA"}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
+Filters(${totalFilters})      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
+Filter      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
+${currencySymbol}       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CircularProgressV2.tsx
+${halfCircle}, ${halfCircle}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CircularProgressV2.tsx
+${currencySymbol} 0      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CircularProgressV2.tsx
+${index}-${Math.random().toFixed(2)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
+${moment.duration(currentTime, "seconds").minutes()}:      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Timer.tsx
+0${moment.duration(currentTime, "seconds").seconds()}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Timer.tsx
+ Min      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Timer.tsx
+v${config.VERSION}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/auth/LoginScreen.tsx
+Select ${branchType} branch      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositBranchScreen.tsx
+Waiting... for confirmation \nfrom Airtel!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
+${
+                    companyType == CompanyType.loan ? "Loan Id" : "Customer Id"
+                }: ${selectedLoanData.loan_id}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/PortfolioDetails.tsx
+ Make Deposit:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
+${75 / activeTabsCount}%      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+PTPs(${
+                                            missedData?.ptp_visits
+                                                ?.total_records ?? "0"
+                                        })      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+Visits(${
+                                            missedData?.surprise_visits
+                                                ?.total_records ?? "0"
+                                        })      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+Deposits(${
+                                            missedData?.collections
+                                                ?.total_records ?? "0"
+                                        })      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+${addressData?.address_text},${addressData?.city}${addressData?.landmark} ,${addressData?.state} ${addressData?.pincode}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+ID: ${rowData.loan_id ?? "NA"}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+Show ${isExpanded ? "Less" : "More"}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+No visits found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingVisits.tsx
+Use the online method for receiving money only in your company's account      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+Unable to send the OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+${reminderDate} ${apiReminder}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+${reminderDate} ${apiReminder}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+${reminderDate} ${apiReminder}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+Amount Collected: ${getCurrencyString(
+                    getValidAmountString(amount)
+                )}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+Not allowed to close the visit outside the allowed distance from the customer.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+Loan Id : ${
+                    isVisitResubmission
+                        ? visitResubmissionDetails?.loan_id
+                        : selectedLoanData?.loan_id
+                }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
+Loan Id : ${
+                    isVisitResubmission
+                        ? visitResubmissionDetails?.loan_id
+                        : selectedLoanData?.loan_id
+                }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
+/CG_Collect_${Date.now()}_Offline_Receipt.pdf      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+${houseNumber} ${
+                    floorNo ? floorNo + "," : ""
+                }${towerName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
+Floor      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
+Confirm Location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
+Logged-in to CG collect as an employee of ${selectedCompanyData?.companyName}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/NoPermission.tsx
+Loan ID :       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/DepositFormRow.tsx
+${keyConverter(key)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
+${keyConverter(key)}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
+Payment Link Sent Successfully\n to ${commAddressesList}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
+Scan using the phone camera and get the \nlink to your payment gateway      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
+${leftIndicatorRotate}rad      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentSheetHandle.tsx
+${rightIndicatorRotate}rad      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentSheetHandle.tsx
+Create bulk ${taskTypeLabel}s      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+Create new ${taskTypeLabel}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+${loanData.length} loans selected      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+${companyType == CompanyType.loan ? "Loan Id" : "Customer Id"} : ${
+              loanData[0].loan_id
+          }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+Select ${taskTypeLabel} Time ${
+        isBulk ? "(optional)" : ""
+    }      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+${convertedAddress?.address_text}, ${convertedAddress?.city}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+${convertedAddress.latitude}, ${convertedAddress.longitude}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+${selectedTaskType} Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+Allocation Month: ${allocation_month}      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
+Select ${taskTypeLabel} Date      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx

@@ -1,0 +1,2012 @@
+{
+  "FOS_LOGGING_OUT": { "string_value": "Logging Out", "vernac_id": "" },
+  "FOS_SOME_ERROR_OCCURRED": {
+    "string_value": "Some error Occurred",
+    "vernac_id": ""
+  },
+  "FOS_SELECT_A_COMPANY_TO": {
+    "string_value": "Select a company to continue.",
+    "vernac_id": ""
+  },
+  "FOS_COMPANY_CHANGE": { "string_value": "COMPANY_CHANGE", "vernac_id": "" },
+  "FOS_LOADING": { "string_value": "Loading", "vernac_id": "" },
+  "FOS_YES": { "string_value": "Yes", "vernac_id": "" },
+  "FOS_CLOSE": { "string_value": "CLOSE", "vernac_id": "" },
+  "FOS_AUTH_TOKEN_NOT_FOUND": {
+    "string_value": "Auth token not found",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_LOGGING_OUT": {
+    "string_value": "Error logging out",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CUSTOMER_DRAWER_LAYOUT_601": {
+    "string_value": "FOS_TOUCHABLE_CUSTOMER_DRAWER_LAYOUT_601",
+    "vernac_id": ""
+  },
+  "FOS_SWITCH_ACCOUNTS": { "string_value": "Switch Accounts", "vernac_id": "" },
+  "FOS_HELP": { "string_value": "Help", "vernac_id": "" },
+  "FOS_LOGOUT": { "string_value": "LOGOUT", "vernac_id": "" },
+  "FOS_VISIT": { "string_value": "Visit", "vernac_id": "" },
+  "FOS_CALLING": { "string_value": "Calling", "vernac_id": "" },
+  "FOS_LEGAL": { "string_value": "Legal", "vernac_id": "" },
+  "FOS_CUSTOMER_DETAILS": {
+    "string_value": "Customer Details",
+    "vernac_id": ""
+  },
+  "FOS_TRANSACTION_DETAILS": {
+    "string_value": "Transaction Details",
+    "vernac_id": ""
+  },
+  "FOS_GO_TO_LOCATION": { "string_value": "Go to location", "vernac_id": "" },
+  "FOS_NOT_AVAILABLE": { "string_value": "Not Available", "vernac_id": "" },
+  "FOS_NO_ADDRESS_FOUND!": {
+    "string_value": "No Address found!",
+    "vernac_id": ""
+  },
+  "FOS_CALLING_NOT_SUPPORTED_IN": {
+    "string_value": "Calling not supported in C2C method in offline method",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_CREATING_NEW_VISIT": {
+    "string_value": "Error creating new visit",
+    "vernac_id": ""
+  },
+  "FOS_TASKDETAILSV2": { "string_value": "TaskDetailsV2", "vernac_id": "" },
+  "FOS_TASK": { "string_value": "TASK", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DETAILS_HEADER_18788": {
+    "string_value": "FOS_TOUCHABLE_DETAILS_HEADER_18788",
+    "vernac_id": ""
+  },
+  "FOS_LOAN_DETAILS": { "string_value": "Loan Details", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DETAILS_HEADER_21657": {
+    "string_value": "FOS_TOUCHABLE_DETAILS_HEADER_21657",
+    "vernac_id": ""
+  },
+  "FOS_DETAILS": { "string_value": "DETAILS", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DETAILS_HEADER_28947": {
+    "string_value": "FOS_TOUCHABLE_DETAILS_HEADER_28947",
+    "vernac_id": ""
+  },
+  "FOS_LESS": { "string_value": "Less", "vernac_id": "" },
+  "FOS_MORE": { "string_value": "More", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DETAILS_HEADER_31081": {
+    "string_value": "FOS_TOUCHABLE_DETAILS_HEADER_31081",
+    "vernac_id": ""
+  },
+  "FOS_TRY_AGAIN": { "string_value": "Try Again", "vernac_id": "" },
+  "FOS_N_A": { "string_value": "N A", "vernac_id": "" },
+  "FOS_1FA": { "string_value": "1Fa", "vernac_id": "" },
+  "FOS_2FA": { "string_value": "2Fa", "vernac_id": "" },
+  "FOS_LOGIN": { "string_value": "Login", "vernac_id": "" },
+  "FOS_HOW_DO_I_LOG": {
+    "string_value": "How do I log my daily activity?",
+    "vernac_id": ""
+  },
+  "FOS_CLICK_ON_THE_DROPDOWN": {
+    "string_value": "Click on the dropdown 'Email ID' option to select Email ID, Phone No., Emp ID etc. as a login option. Enter Company name in case 'Emp ID' is selected as an option. Finally, enter the password to log in.",
+    "vernac_id": ""
+  },
+  "FOS_FACING_ISSUE_WHILE_LOGIN?": {
+    "string_value": "Facing issue while Login?",
+    "vernac_id": ""
+  },
+  "FOS_IF_'PLEASE_CONTACT_YOUR": {
+    "string_value": "If 'Please contact your admin' is displayed while logging in, contact your supervisor for approval.",
+    "vernac_id": ""
+  },
+  "FOS_HOW_DO_I_RESET": {
+    "string_value": "How do I reset my password?",
+    "vernac_id": ""
+  },
+  "FOS_CLICK_ON_'FORGET_PASSWORD'": {
+    "string_value": "Click on 'Forget Password' to change your password. Enter email ID to receive OTP.",
+    "vernac_id": ""
+  },
+  "FOS_ALLOCATION": { "string_value": "Allocation", "vernac_id": "" },
+  "FOS_HOW_DO_I_SEE": {
+    "string_value": "How do I see the history of deposits and closed visits?",
+    "vernac_id": ""
+  },
+  "FOS_SEE_LOANS_ALLOCATED_IN": {
+    "string_value": "See loans allocated in different months by clicking on the Month filter at the top right of the Portfolio section page.",
+    "vernac_id": ""
+  },
+  "FOS_PERFORMANCE": { "string_value": "Performance", "vernac_id": "" },
+  "FOS_CLOCK-IN": { "string_value": "Clock-In", "vernac_id": "" },
+  "FOS_HOW_TO_VISUALIZE_MY": {
+    "string_value": "How to visualize my collection performance?",
+    "vernac_id": ""
+  },
+  "FOS_APPLICATION_USER_CAN_VIEW": {
+    "string_value": "Application user can view history of visits done and deposits made by accessing 'History' section on left side menu.",
+    "vernac_id": ""
+  },
+  "FOS_HOW_TO_CREATE_VISITS": {
+    "string_value": "How to create visits for multiple loan accounts in Bulk?",
+    "vernac_id": ""
+  },
+  "FOS_SELECT_MULTIPLE_APPLICANT'S_ID": {
+    "string_value": "Select Multiple Applicant's ID on Portfolio Page for which visits to be scheduled. Click the ",
+    "vernac_id": ""
+  },
+  "FOS_ADDRESS": { "string_value": "Address", "vernac_id": "" },
+  "FOS_MARKEDLOCATION": { "string_value": "Markedlocation", "vernac_id": "" },
+  "FOS_ADDRESS_/_LAT-LONG_AT": {
+    "string_value": "Address / Lat-Long at top of the visit submission form refers to the applicant's location. Marked location is of an agent which is captured during submission of field visit.",
+    "vernac_id": ""
+  },
+  "FOS_HOW_TO_CREATE_A": {
+    "string_value": "How to create a new visit for any loan account?",
+    "vernac_id": ""
+  },
+  "FOS_THERE_ARE_MULTIPLE_WAYS": {
+    "string_value": "There are multiple ways to create a visit for an applicant: \\n1. By utilizing Bulk visit option \\n2. By Clicking on Applicant on Portfolio Page, then click the ",
+    "vernac_id": ""
+  },
+  "FOS_QUICK_VISIT": { "string_value": "Quick Visit", "vernac_id": "" },
+  "FOS_WHAT'S_THE_DIFFERENCE_BETWEEN": {
+    "string_value": "What's the difference between a PTP visit and a field visit?",
+    "vernac_id": ""
+  },
+  "FOS_PTP_(PROMISE_TO_PAY)": {
+    "string_value": "PTP (Promise to Pay) visit is scheduled when the borrower promises to pay at a future date or time. FOS application user has to schedule a PTP for that applicant to call back or visit at provided date or time. A field Visit is a Surprise visit on a specific date/time when an applicant user visits an applicant first time.",
+    "vernac_id": ""
+  },
+  "FOS_COLLECTION": { "string_value": "Collection", "vernac_id": "" },
+  "FOS_WHAT_IS_A_COLLECTION": {
+    "string_value": "What is a Collection Receipt and how to share receipts with the applicants?",
+    "vernac_id": ""
+  },
+  "FOS_COLLECTION_RECEIPT_PROVIDES_DETAILS": {
+    "string_value": "Collection receipt provides details to borrower regarding their payment to field agents. Field Agents can share receipts to borrowers by visiting 'History' section on left side menu.",
+    "vernac_id": ""
+  },
+  "FOS_HISTORY": { "string_value": "History", "vernac_id": "" },
+  "FOS_DEPOSIT": { "string_value": "Deposit", "vernac_id": "" },
+  "FOS_HOW_TO_I_DEPOSIT": {
+    "string_value": "How to i deposit collected amount in company's account?",
+    "vernac_id": ""
+  },
+  "FOS_COLLECTED_AMOUNT_VIA_'CASH'": {
+    "string_value": "Collected amount via 'cash' or ' cheque' method can be deposited in a bank branch/company branch as per details provided by the company. To perform a deposit user needs to go to the \\",
+    "vernac_id": ""
+  },
+  "FOS_CONTENT-TYPE": { "string_value": "Content-Type", "vernac_id": "" },
+  "FOS_CAMERA_PERMISSION_REQUIRED!": {
+    "string_value": "Camera Permission Required!",
+    "vernac_id": ""
+  },
+  "FOS_MEDIA_PERMISSION_REQUIRED!": {
+    "string_value": "Media Permission Required!",
+    "vernac_id": ""
+  },
+  "FOS_TO_CONTINUE_GIVE_MEDIA_PERMISSION": {
+    "string_value": "To continue,give media permission to the app from settings-> apps -> fos -> permissions -> media.",
+    "vernac_id": ""
+  },
+  "FOS_TO_CONTINUE_GIVE_CAMERA_PERMISSION": {
+    "string_value": "To continue,give camera permission to the app from settings-> apps -> fos -> permissions -> camera.",
+    "vernac_id": ""
+  },
+  "FOS_LOCATION_PERMISSION_REQUIRED!": {
+    "string_value": "Location Permission Required!",
+    "vernac_id": ""
+  },
+  "FOS_LOCATION_NOT_AVAILABLE_DUE": {
+    "string_value": "Location not available due to location provider disabled.",
+    "vernac_id": ""
+  },
+  "FOS_ARE_YOU_SURE_YOU": {
+    "string_value": "Are you sure you want to submit the Visit Form?",
+    "vernac_id": ""
+  },
+  "FOS_OVERALL": { "string_value": "Overall", "vernac_id": "" },
+  "FOS_MAXIMUM_LIMIT_FOR_ENTERING": {
+    "string_value": "Maximum limit for entering the invalid OTP reached! You may try again after 5 mins",
+    "vernac_id": ""
+  },
+  "FOS_CLOSED_BY_AGENT": { "string_value": "Closed by Agent", "vernac_id": "" },
+  "FOS_PARTIALLY_RECOVERED_BY_AGENT": {
+    "string_value": "Partially Recovered by Agent",
+    "vernac_id": ""
+  },
+  "FOS_SOMETHING_WENT_WRONG": {
+    "string_value": "Something went wrong",
+    "vernac_id": ""
+  },
+  "FOS_COLLECTION_LIMIT_EXCEEDED": {
+    "string_value": "Collection Limit exceeded",
+    "vernac_id": ""
+  },
+  "FOS_(VISITS/PTPS_ALREADY_OPEN_FOR": {
+    "string_value": "(Visits/PTPs already open for these loans)",
+    "vernac_id": ""
+  },
+  "FOS_(VISIT/PTP_ALREADY_OPEN_FOR": {
+    "string_value": "(Visit/PTP already open for this loan)",
+    "vernac_id": ""
+  },
+  "FOS_ACCESS_DENIED!": { "string_value": "Access Denied!", "vernac_id": "" },
+  "FOS_PLEASE_CONTACT_YOUR_SUPERVISOR": {
+    "string_value": "Please contact your supervisor as you are not permitted to access the FOS app.\\n\\nRestart the app after permission is granted.",
+    "vernac_id": ""
+  },
+  "FOS_THIS_APPLICATION_IS_NOT": {
+    "string_value": "This application is not supported when GPS location services are turned off.\\n\\nPlease go to your settings and turn them on to continue",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_CLOCK_IN_BEFORE": {
+    "string_value": "Please clock in before closing any visit",
+    "vernac_id": ""
+  },
+  "FOS_WE_CAN’T_SUPPORT_ALL": {
+    "string_value": "We can’t support all the required functionalities since you are offline. Please wait for Internet connection to get restored",
+    "vernac_id": ""
+  },
+  "FOS_THIS_LOAN_IS_CLOSED_": {
+    "string_value": "This loan is closed, visit/disposition form cannot be created.",
+    "vernac_id": ""
+  },
+  "FOS_MAXIMUM_PROOF_LIMIT_IS": {
+    "string_value": "Maximum proof limit is 3",
+    "vernac_id": ""
+  },
+  "FOS_ALERT!": { "string_value": "Alert!", "vernac_id": "" },
+  "FOS_WE_ARE_UNABLE_TO": {
+    "string_value": "We are unable to fetch your location! Try again.\\nIf the issue still continues, try turning your GPS OFF and then ON again",
+    "vernac_id": ""
+  },
+  "FOS_INTL/LOCALE-DATA/JSONP/EN-US": {
+    "string_value": "intl/locale-data/jsonp/en-US",
+    "vernac_id": ""
+  },
+  "FOS_RP": { "string_value": "Rp", "vernac_id": "" },
+  "FOS_EN-US": { "string_value": "en-US", "vernac_id": "" },
+  "FOS_ACCESS_UNAUTHORIZED": {
+    "string_value": "Access Unauthorized",
+    "vernac_id": ""
+  },
+  "FOS_NETWORK_ERROR": { "string_value": "Network Error", "vernac_id": "" },
+  "FOS_SEEMS_LIKE_YOU'RE_OFFLINE": {
+    "string_value": "Seems like you're offline",
+    "vernac_id": ""
+  },
+  "FOS_BALANCEDPOWERACCURACY": {
+    "string_value": "balancedPowerAccuracy",
+    "vernac_id": ""
+  },
+  "FOS_HH:MM": { "string_value": "HH:mm", "vernac_id": "" },
+  "FOS_POINT": { "string_value": "Point", "vernac_id": "" },
+  "FOS_CG_COLLECT": { "string_value": "CG Collect", "vernac_id": "" },
+  "FOS_YOU_ARE_ONLINE!": { "string_value": "You are online!", "vernac_id": "" },
+  "FOS_ERROR_CLOCKING_OUT": {
+    "string_value": "Error clocking out",
+    "vernac_id": ""
+  },
+  "FOS_THIS_FUNCTIONALITY_IS_SUPPORTED": {
+    "string_value": "This functionality is supported only with location access",
+    "vernac_id": ""
+  },
+  "FOS_REMINDER_DATE_IS_REQUIRED": {
+    "string_value": "Reminder date is required",
+    "vernac_id": ""
+  },
+  "FOS_REMINDER_TIME_IS_REQUIRED": {
+    "string_value": "Reminder time is required",
+    "vernac_id": ""
+  },
+  "FOS_COMMMITTED_AMOUNT_IS_REQUIRED": {
+    "string_value": "Commmitted amount is required",
+    "vernac_id": ""
+  },
+  "FOS_DISPOSITION_IS_REQUIRED": {
+    "string_value": "Disposition is required",
+    "vernac_id": ""
+  },
+  "FOS_SUB_DISPOSITION_1_IS": {
+    "string_value": "Sub disposition 1 is required",
+    "vernac_id": ""
+  },
+  "FOS_SUB_DISPOSITION_2_IS": {
+    "string_value": "Sub disposition 2 is required",
+    "vernac_id": ""
+  },
+  "FOS_CHECKED_STEP_IS_REQUIRED": {
+    "string_value": "Checked step is required",
+    "vernac_id": ""
+  },
+  "FOS_REMARK/COMMENT_IS_REQUIRED": {
+    "string_value": "Remark/Comment is required",
+    "vernac_id": ""
+  },
+  "FOS_USEAUTH_MUST_BE_USED": {
+    "string_value": "useAuth must be used within an AuthProvider",
+    "vernac_id": ""
+  },
+  "FOS_USECLOCKIN_MUST_BE_USED": {
+    "string_value": "useClockIn must be used within an ClockInStatusContextProvider",
+    "vernac_id": ""
+  },
+  "FOS_DOCUMENTS": { "string_value": "Documents", "vernac_id": "" },
+  "FOS_ERROR_GENERATING_RECEIPT": {
+    "string_value": "Error generating receipt",
+    "vernac_id": ""
+  },
+  "FOS_USELOCATION_MUST_BE_USED": {
+    "string_value": "useLocation must be used within an LocationProvider",
+    "vernac_id": ""
+  },
+  "FOS_USETASKFILTER_MUST_BE_USED": {
+    "string_value": "useTaskFilter must be used within an TaskFilterProvider",
+    "vernac_id": ""
+  },
+  "FOS_USETASKHISTORYFILTER_MUST_BE_USED": {
+    "string_value": "useTaskHistoryFilter must be used within an taskFilterHistoryProvider",
+    "vernac_id": ""
+  },
+  "FOS_USETASKSUBMISSION_MUST_BE_USED": {
+    "string_value": "useTaskSubmission must be used within an TaskSubmissionProvider",
+    "vernac_id": ""
+  },
+  "FOS_HOMETAB": { "string_value": "HomeTab", "vernac_id": "" },
+  "FOS_HOME": { "string_value": "Home", "vernac_id": "" },
+  "FOS_PORTFOLIO": { "string_value": "Portfolio", "vernac_id": "" },
+  "FOS_SCHEDULED_VISIT": { "string_value": "Scheduled Visit", "vernac_id": "" },
+  "FOS_COLLECTIONS": { "string_value": "Collections", "vernac_id": "" },
+  "FOS_PROFILE": { "string_value": "Profile", "vernac_id": "" },
+  "FOS_DRAWER": { "string_value": "Drawer", "vernac_id": "" },
+  "FOS_FIELDVISITHISTORY": {
+    "string_value": "FieldVisitHistory",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSITHISTORY": { "string_value": "DepositHistory", "vernac_id": "" },
+  "FOS_ADDADDRESSADDITIONMAP": {
+    "string_value": "AddAddressAdditionMap",
+    "vernac_id": ""
+  },
+  "FOS_PENDINGTASKS": { "string_value": "PendingTasks", "vernac_id": "" },
+  "FOS_TASKDETAILSV2-2": { "string_value": "TaskDetailsV2-2", "vernac_id": "" },
+  "FOS_LOANDETAIL/ALLLOAN": {
+    "string_value": "loanDetail/allLoan",
+    "vernac_id": ""
+  },
+  "FOS_LOANDETAIL": { "string_value": "loanDetail", "vernac_id": "" },
+  "FOS_OFFLINEVISITDATA/ALLSTATUS": {
+    "string_value": "offlineVisitData/allStatus",
+    "vernac_id": ""
+  },
+  "FOS_OFFLINEVISITDATA/ALLSTATUSFOS": {
+    "string_value": "offlineVisitData/allStatusFos",
+    "vernac_id": ""
+  },
+  "FOS_OFFLINEVISITDATA/RECSVARS": {
+    "string_value": "offlineVisitData/recsVars",
+    "vernac_id": ""
+  },
+  "FOS_OFFLINEVISITDATASLICE": {
+    "string_value": "offlineVisitDataSlice",
+    "vernac_id": ""
+  },
+  "FOS_CHOOSE_ADDRESS": { "string_value": "Choose Address", "vernac_id": "" },
+  "FOS_NEW_ADDRESS": { "string_value": "New Address", "vernac_id": "" },
+  "FOS_ADD_ADDRESS": { "string_value": "Add Address", "vernac_id": "" },
+  "FOS_DIGITAL_NOTICE": { "string_value": "Digital Notice", "vernac_id": "" },
+  "FOS_SPEED_POST": { "string_value": "Speed Post", "vernac_id": "" },
+  "FOS_ACTIVITY_SUMMARY": {
+    "string_value": "Activity Summary",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CUSTOMER_PROFILE_8580": {
+    "string_value": "FOS_TOUCHABLE_CUSTOMER_PROFILE_8580",
+    "vernac_id": ""
+  },
+  "FOS_MMM": { "string_value": "MMM", "vernac_id": "" },
+  "FOS_ALLOCATION_MONTH": {
+    "string_value": "Allocation Month",
+    "vernac_id": ""
+  },
+  "FOS_DISPOSITION_FORM": {
+    "string_value": "Disposition Form",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_MAP_SCREEN_3654": {
+    "string_value": "FOS_TOUCHABLE_MAP_SCREEN_3654",
+    "vernac_id": ""
+  },
+  "FOS_NO_VISITS_FOUND": { "string_value": "No visits found", "vernac_id": "" },
+  "FOS_ERROR_FETCHING_USER_LOCATION": {
+    "string_value": "Error fetching user location",
+    "vernac_id": ""
+  },
+  "FOS_NO_ROUTE_AVAILABLE": {
+    "string_value": "No route available",
+    "vernac_id": ""
+  },
+  "FOS_PHONE_NUMBER_NOT_FOUND": {
+    "string_value": "Phone number not found",
+    "vernac_id": ""
+  },
+  "FOS_PLANNED_ROUTE": { "string_value": "Planned Route", "vernac_id": "" },
+  "FOS_RESPONSES": { "string_value": "Responses", "vernac_id": "" },
+  "FOS_FORM": { "string_value": "Form", "vernac_id": "" },
+  "FOS_SAVED_FOR_LATER": { "string_value": "Saved for Later", "vernac_id": "" },
+  "FOS_VISIT_ID_NOT_FOUND": {
+    "string_value": "Visit id not found",
+    "vernac_id": ""
+  },
+  "FOS_RESPONSE_ID_NOT_FOUND": {
+    "string_value": "Response id not found",
+    "vernac_id": ""
+  },
+  "FOS_FORM_SUBMITTED": { "string_value": "Form submitted", "vernac_id": "" },
+  "FOS_ERROR_SUBMITTING_FORM": {
+    "string_value": "Error submitting form",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_FORM": {
+    "string_value": "Error fetching form",
+    "vernac_id": ""
+  },
+  "FOS_FORM_INCORRECT": { "string_value": "Form incorrect", "vernac_id": "" },
+  "FOS_CANNOT_FIND_FORM": {
+    "string_value": "Cannot find form",
+    "vernac_id": ""
+  },
+  "FOS_LOADING_FEEDBACK_RESPONSES": {
+    "string_value": "Loading feedback responses",
+    "vernac_id": ""
+  },
+  "FOS_LOADING_FEEDBACK_FORM": {
+    "string_value": "Loading feedback form",
+    "vernac_id": ""
+  },
+  "FOS_SUBMITTING_RESPONSE": {
+    "string_value": "Submitting response",
+    "vernac_id": ""
+  },
+  "FOS_LOAN_DETAILS_NOT_FOUND": {
+    "string_value": "Loan Details not found",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8425": {
+    "string_value": "FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8425",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8945": {
+    "string_value": "FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8945",
+    "vernac_id": ""
+  },
+  "FOS_SUCCESS": { "string_value": "Success", "vernac_id": "" },
+  "FOS_DONE": { "string_value": "Done", "vernac_id": "" },
+  "FOS_FEEDBACK_PENDING": {
+    "string_value": "Feedback pending",
+    "vernac_id": ""
+  },
+  "FOS_YOUR_FEEDBACK_FORM_IS": {
+    "string_value": "Your feedback form is pending!",
+    "vernac_id": ""
+  },
+  "FOS_FILL_NOW": { "string_value": "Fill Now", "vernac_id": "" },
+  "FOS_FILL_LATER": { "string_value": "Fill Later", "vernac_id": "" },
+  "FOS_RETRY": { "string_value": "Retry", "vernac_id": "" },
+  "FOS_UPDATE": { "string_value": "Update", "vernac_id": "" },
+  "FOS_FOS_BUTTON_UPDATE_AVAILABLE_SCREEN_1941": {
+    "string_value": "FOS_BUTTON_UPDATE_AVAILABLE_SCREEN_1941",
+    "vernac_id": ""
+  },
+  "FOS_GET": { "string_value": "GET", "vernac_id": "" },
+  "FOS_NA": { "string_value": "NA", "vernac_id": "" },
+  "FOS_INVALID_KEY": { "string_value": "INVALID KEY", "vernac_id": "" },
+  "FOS_WRONG_URL": { "string_value": "Wrong url", "vernac_id": "" },
+  "FOS_PERMISSION_DENIED!": {
+    "string_value": "Permission Denied!",
+    "vernac_id": ""
+  },
+  "FOS_YOU_NEED_TO_GIVE": {
+    "string_value": "You need to give storage permission to download the file",
+    "vernac_id": ""
+  },
+  "FOS_JAN": { "string_value": "Jan", "vernac_id": "" },
+  "FOS_FEB": { "string_value": "Feb", "vernac_id": "" },
+  "FOS_MARCH": { "string_value": "March", "vernac_id": "" },
+  "FOS_APRIL": { "string_value": "April", "vernac_id": "" },
+  "FOS_MAY": { "string_value": "May", "vernac_id": "" },
+  "FOS_JUNE": { "string_value": "June", "vernac_id": "" },
+  "FOS_JULY": { "string_value": "July", "vernac_id": "" },
+  "FOS_AUG": { "string_value": "Aug", "vernac_id": "" },
+  "FOS_SEP": { "string_value": "Sep", "vernac_id": "" },
+  "FOS_OCT": { "string_value": "Oct", "vernac_id": "" },
+  "FOS_NOV": { "string_value": "Nov", "vernac_id": "" },
+  "FOS_DEC": { "string_value": "Dec", "vernac_id": "" },
+  "FOS_ISOWEEK": { "string_value": "isoWeek", "vernac_id": "" },
+  "FOS_UNABLE_TO_FETCH_LOCATION": {
+    "string_value": "Unable to fetch location",
+    "vernac_id": ""
+  },
+  "FOS__CR": { "string_value": " Cr", "vernac_id": "" },
+  "FOS__M": { "string_value": " M", "vernac_id": "" },
+  "FOS__LAC": { "string_value": " Lac", "vernac_id": "" },
+  "FOS_M": { "string_value": "M", "vernac_id": "" },
+  "FOS_SOME_ERROR_OCCURED": {
+    "string_value": "Some error Occured",
+    "vernac_id": ""
+  },
+  "FOS_OTHER": { "string_value": "Other", "vernac_id": "" },
+  "FOS_WORK": { "string_value": "Work", "vernac_id": "" },
+  "FOS_DEFAULT_ADDRESS_UPDATED_SUCCESSFULLY": {
+    "string_value": "Default Address Updated successfully",
+    "vernac_id": ""
+  },
+  "FOS_ADDRESS_ADDED_SUCCESSFULLY": {
+    "string_value": "Address Added Successfully",
+    "vernac_id": ""
+  },
+  "FOS_HOUSENUMBER": { "string_value": "houseNumber", "vernac_id": "" },
+  "FOS_FLOOR": { "string_value": "Floor", "vernac_id": "" },
+  "FOS_TOWERNAME": { "string_value": "towerName", "vernac_id": "" },
+  "FOS_LANDMARK": { "string_value": "Landmark", "vernac_id": "" },
+  "FOS_ADDRESSTYPE": { "string_value": "addressType", "vernac_id": "" },
+  "FOS_USE_THIS_AS_CUSTOMER'S": {
+    "string_value": "Use this as customer's updated address",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_ADD_ADRESS_FORM_16119": {
+    "string_value": "FOS_BUTTON_ADD_ADRESS_FORM_16119",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_BUTTON_470": {
+    "string_value": "FOS_TOUCHABLE_BUTTON_470",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DATE_RAGE_PICKER_10959": {
+    "string_value": "FOS_TOUCHABLE_DATE_RAGE_PICKER_10959",
+    "vernac_id": ""
+  },
+  "FOS_MMMM": { "string_value": "MMMM", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DATE_RAGE_PICKER_12081": {
+    "string_value": "FOS_TOUCHABLE_DATE_RAGE_PICKER_12081",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DATE_RAGE_PICKER_13383": {
+    "string_value": "FOS_TOUCHABLE_DATE_RAGE_PICKER_13383",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DATE_RAGE_PICKER_14013": {
+    "string_value": "FOS_TOUCHABLE_DATE_RAGE_PICKER_14013",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DAY_1417": {
+    "string_value": "FOS_TOUCHABLE_DAY_1417",
+    "vernac_id": ""
+  },
+  "FOS_LOCATION_IS_MOCKED": {
+    "string_value": "Location is mocked",
+    "vernac_id": ""
+  },
+  "FOS_ERROR": { "string_value": "Error", "vernac_id": "" },
+  "FOS_CLOCKED_IN_SUCCESSFULLY": {
+    "string_value": "Clocked in successfully",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_CLOCKING_IN": {
+    "string_value": "Error clocking in",
+    "vernac_id": ""
+  },
+  "FOS_CLOCKED_OUT_SUCCESSFULLY": {
+    "string_value": "Clocked out successfully",
+    "vernac_id": ""
+  },
+  "FOS_CLOCK-OUT": { "string_value": "Clock-Out", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CLOCK_IN_OUT_7407": {
+    "string_value": "FOS_TOUCHABLE_CLOCK_IN_OUT_7407",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CLOCK_IN_OUT_7909": {
+    "string_value": "FOS_TOUCHABLE_CLOCK_IN_OUT_7909",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CLOCK_IN_OUT_STATUS_902": {
+    "string_value": "FOS_TOUCHABLE_CLOCK_IN_OUT_STATUS_902",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_FILL_THE_REQUIRED": {
+    "string_value": "Please fill the required details",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_ENTER_VALID_PHONE": {
+    "string_value": "Please enter valid phone number",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_ENTER_VALID_EMAIL": {
+    "string_value": "Please enter valid email id",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_FILL_THE_COMPANY": {
+    "string_value": "Please fill the company name",
+    "vernac_id": ""
+  },
+  "FOS_LOGIN_SUCCESSFUL": {
+    "string_value": "Login successful",
+    "vernac_id": ""
+  },
+  "FOS_SELECT_AN_ITEM": { "string_value": "Select an item", "vernac_id": "" },
+  "FOS_COMPANY_NAME": { "string_value": "Company Name", "vernac_id": "" },
+  "FOS_PASSWORD": { "string_value": "Password", "vernac_id": "" },
+  "FOS_LOGGING_IN": { "string_value": "Logging in", "vernac_id": "" },
+  "FOS_FOS_BUTTON_LOGIN_19238": {
+    "string_value": "FOS_BUTTON_LOGIN_19238",
+    "vernac_id": ""
+  },
+  "FOS_PASSWORD_MISMATCH!": {
+    "string_value": "Password mismatch!",
+    "vernac_id": ""
+  },
+  "FOS_USERNAME": { "string_value": "Username", "vernac_id": "" },
+  "FOS_OTP_AUTHENTICATION_FAILED": {
+    "string_value": "OTP Authentication Failed",
+    "vernac_id": ""
+  },
+  "FOS_NEW_PASSWORD": { "string_value": "New Password", "vernac_id": "" },
+  "FOS_CONFIRM_PASSWORD": {
+    "string_value": "Confirm Password",
+    "vernac_id": ""
+  },
+  "FOS_SUBMIT": { "string_value": "SUBMIT", "vernac_id": "" },
+  "FOS_FOS_BUTTON_NEW_PASSWORD_3892": {
+    "string_value": "FOS_BUTTON_NEW_PASSWORD_3892",
+    "vernac_id": ""
+  },
+  "FOS_INVALID_OTP": { "string_value": "Invalid OTP", "vernac_id": "" },
+  "FOS_VERIFYING": { "string_value": "Verifying", "vernac_id": "" },
+  "FOS_RESENDING": { "string_value": "Resending", "vernac_id": "" },
+  "FOS_FOS_BUTTON_ONE_TIME_PASSWORD_15103": {
+    "string_value": "FOS_BUTTON_ONE_TIME_PASSWORD_15103",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ONE_TIME_PASSWORD_15390": {
+    "string_value": "FOS_TOUCHABLE_ONE_TIME_PASSWORD_15390",
+    "vernac_id": ""
+  },
+  "FOS_FOS_INPUT_PASSWORD_INPUT_1387": {
+    "string_value": "FOS_INPUT_PASSWORD_INPUT_1387",
+    "vernac_id": ""
+  },
+  "FOS_ENTER_EMAIL_ADDRESS!": {
+    "string_value": "Enter email address!",
+    "vernac_id": ""
+  },
+  "FOS_EMAIL": { "string_value": "Email", "vernac_id": "" },
+  "FOS_SEND_OTP": { "string_value": "Send OTP", "vernac_id": "" },
+  "FOS_FOS_BUTTON_RESET_PASSWORD_3437": {
+    "string_value": "FOS_BUTTON_RESET_PASSWORD_3437",
+    "vernac_id": ""
+  },
+  "FOS_M46.2494_17.3435C46.2494_26.9218_38.4843": {
+    "string_value": "M46.2494 17.3435C46.2494 26.9218 38.4843 34.6869 28.906 34.6869C19.3276 34.6869 11.5625 26.9218 11.5625 17.3435C11.5625 7.76432 19.3276 0 28.906 0C38.4843 0 46.2494 7.76432 46.2494 17.3435Z",
+    "vernac_id": ""
+  },
+  "FOS_M28.9051_36.7676C12.9491_36.7676_0": {
+    "string_value": "M28.9051 36.7676C12.9491 36.7676 0 49.4864 0 66.8302H57.8122C57.8114 49.486 44.8619 36.7676 28.9051 36.7676Z",
+    "vernac_id": ""
+  },
+  "FOS_XMINYMIN_SLICE": { "string_value": "xMinYMin slice", "vernac_id": "" },
+  "FOS_M108.872_86.343C59.516_113.625_15.726": {
+    "string_value": "M108.872 86.343C59.516 113.625 15.726 100.129 0 89.97V156h360V4.35C235.161-18.143 170.565 52.24 108.871 86.343z",
+    "vernac_id": ""
+  },
+  "FOS_USERSPACEONUSE": { "string_value": "userSpaceOnUse", "vernac_id": "" },
+  "FOS_M251.129_54.03C300.484_32.867_344.274": {
+    "string_value": "M251.129 54.03C300.484 32.867 344.274 43.335 360 51.214V0H0v117.626c124.839 17.447 189.435-37.145 251.129-63.597z",
+    "vernac_id": ""
+  },
+  "FOS_M251.129_41.08C49.355-16.09_93.145-8.13_108.871-2.14V0H0V89.434C124.839": {
+    "string_value": "M251.129 41.08c49.355-16.09 93.145-8.13 108.871-2.14V0H0v89.434C124.839 102.7 189.435 61.192 251.129 41.08z",
+    "vernac_id": ""
+  },
+  "FOS_MAX._LIMIT": { "string_value": "Max. Limit", "vernac_id": "" },
+  "FOS_COLLECTION_IN_HAND": {
+    "string_value": "Collection in Hand",
+    "vernac_id": ""
+  },
+  "FOS_AVAILABLE_LIMIT": { "string_value": "Available Limit", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CARD_2558": {
+    "string_value": "FOS_TOUCHABLE_CARD_2558",
+    "vernac_id": ""
+  },
+  "FOS_SEE_LESS": { "string_value": "See Less", "vernac_id": "" },
+  "FOS_SEE_MORE": { "string_value": "See More", "vernac_id": "" },
+  "FOS_DASHBOARD": { "string_value": "Dashboard", "vernac_id": "" },
+  "FOS_VISITS": { "string_value": "Visits", "vernac_id": "" },
+  "FOS_DD_MMM": { "string_value": "DD MMM", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DASHBOARD_CARD_5036": {
+    "string_value": "FOS_TOUCHABLE_DASHBOARD_CARD_5036",
+    "vernac_id": ""
+  },
+  "FOS_AMOUNT": { "string_value": "Amount", "vernac_id": "" },
+  "FOS_ERROR_FETCHING_MISSED_TASKS": {
+    "string_value": "Error fetching missed tasks",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_MISSED_TASK_2434": {
+    "string_value": "FOS_TOUCHABLE_MISSED_TASK_2434",
+    "vernac_id": ""
+  },
+  "FOS_HH:MM:SS": { "string_value": "HH:mm:ss", "vernac_id": "" },
+  "FOS_H:MM_A": { "string_value": "h:mm A", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2139": {
+    "string_value": "FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2139",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2603": {
+    "string_value": "FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2603",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_3732": {
+    "string_value": "FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_3732",
+    "vernac_id": ""
+  },
+  "FOS_UNABLE_TO_FETCH_VISIT/PTP": {
+    "string_value": "Unable to fetch Visit/PTP details",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_DETAILS": {
+    "string_value": "Error fetching details",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_NEXT_TASK_ITEM_3618": {
+    "string_value": "FOS_TOUCHABLE_NEXT_TASK_ITEM_3618",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_VISITS": {
+    "string_value": "Error fetching visits",
+    "vernac_id": ""
+  },
+  "FOS_REMINDER_CLOSED_SUCCESSFULLY": {
+    "string_value": "Reminder closed successfully",
+    "vernac_id": ""
+  },
+  "FOS_FETCHING_DETAILS": {
+    "string_value": "Fetching Details",
+    "vernac_id": ""
+  },
+  "FOS_UNABLE_TO_FETCH_LOAN": {
+    "string_value": "Unable to fetch loan details",
+    "vernac_id": ""
+  },
+  "FOS_NO__WAIT": { "string_value": "No, Wait", "vernac_id": "" },
+  "FOS_YES__SUBMIT": { "string_value": "Yes, Submit", "vernac_id": "" },
+  "FOS_ALL_SET_FOR_TODAY!": {
+    "string_value": "All set for today!",
+    "vernac_id": ""
+  },
+  "FOS_PLANNED_SURPRISE_VISITS": {
+    "string_value": "Planned Surprise Visits",
+    "vernac_id": ""
+  },
+  "FOS_PLANNED_PTP_VISITS": {
+    "string_value": "Planned PTP Visits",
+    "vernac_id": ""
+  },
+  "FOS_COMPLETED_VISITS": {
+    "string_value": "Completed Visits",
+    "vernac_id": ""
+  },
+  "FOS_PENDING_DEPOSITS": {
+    "string_value": "Pending Deposits",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TODAYS_CALENDER_COMPONENT_5461": {
+    "string_value": "FOS_TOUCHABLE_TODAYS_CALENDER_COMPONENT_5461",
+    "vernac_id": ""
+  },
+  "FOS_SMS": { "string_value": "SMS", "vernac_id": "" },
+  "FOS_E-MAIL": { "string_value": "E-mail", "vernac_id": "" },
+  "FOS_NUMBER_ALREADY_PRESENT": {
+    "string_value": "Number already present",
+    "vernac_id": ""
+  },
+  "FOS_EMAIL_ALREADY_PRESENT": {
+    "string_value": "Email already present",
+    "vernac_id": ""
+  },
+  "FOS_ENTER_VALID_PHONE_NUMBER": {
+    "string_value": "Enter valid phone number",
+    "vernac_id": ""
+  },
+  "FOS_ENTER_VALID_E-MAIL": {
+    "string_value": "Enter valid e-mail",
+    "vernac_id": ""
+  },
+  "FOS_DETAILS_UPDATED_SUCCESSFULLY": {
+    "string_value": "Details updated successfully",
+    "vernac_id": ""
+  },
+  "FOS_MODULE_ACCESS_NOT_PERMITTED": {
+    "string_value": "Module access not permitted",
+    "vernac_id": ""
+  },
+  "FOS_PERMISSION_DENIED._CONTACT_YOUR": {
+    "string_value": "Permission denied. Contact your admin",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TEXT_INPUT_ADD_CONTACT_NUMBER_6173": {
+    "string_value": "FOS_TEXT_INPUT_ADD_CONTACT_NUMBER_6173",
+    "vernac_id": ""
+  },
+  "FOS_EMAIL_ADDRESS": { "string_value": "Email Address", "vernac_id": "" },
+  "FOS_PHONE_NUMBER": { "string_value": "Phone Number", "vernac_id": "" },
+  "FOS_ADD": { "string_value": "Add", "vernac_id": "" },
+  "FOS_FOS_BUTTON_ADD_CONTACT_NUMBER_7573": {
+    "string_value": "FOS_BUTTON_ADD_CONTACT_NUMBER_7573",
+    "vernac_id": ""
+  },
+  "FOS_SAVE_FOR_FUTURE": { "string_value": "Save for Future", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_14730": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_14730",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_17938": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_17938",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_18966": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_18966",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_20110": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_20110",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_21397": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_21397",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_24967": {
+    "string_value": "FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_24967",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_ADDRESS_BOTTOM_SHEET_29180": {
+    "string_value": "FOS_BUTTON_ADDRESS_BOTTOM_SHEET_29180",
+    "vernac_id": ""
+  },
+  "FOS_SEARCH": { "string_value": "Search", "vernac_id": "" },
+  "FOS_DEPOSITSELECTIONS": {
+    "string_value": "DepositSelections",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_BAR_6570": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_6570",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_BAR_7125": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_7125",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_BAR_7398": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_7398",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_BAR_9016": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_9016",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_BAR_9585": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_9585",
+    "vernac_id": ""
+  },
+  "FOS_SORT": { "string_value": "Sort", "vernac_id": "" },
+  "FOS_FILTER": { "string_value": "Filter", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_APP_BAR_15808": {
+    "string_value": "FOS_TOUCHABLE_APP_BAR_15808",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_BUTTON_356": {
+    "string_value": "FOS_TOUCHABLE_BUTTON_356",
+    "vernac_id": ""
+  },
+  "FOS_ENTER_VALID_NUMBER": {
+    "string_value": "Enter valid number",
+    "vernac_id": ""
+  },
+  "FOS_NO_TRANSACTION_FOUND_FOR": {
+    "string_value": "No transaction found for current allocation month",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CALL_BOTTOM_SHEET_9587": {
+    "string_value": "FOS_TOUCHABLE_CALL_BOTTOM_SHEET_9587",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CALL_BOTTOM_SHEET_10683": {
+    "string_value": "FOS_TOUCHABLE_CALL_BOTTOM_SHEET_10683",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TEXT_INPUT_CALL_BOTTOM_SHEET_11467": {
+    "string_value": "FOS_TEXT_INPUT_CALL_BOTTOM_SHEET_11467",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_CALL_BOTTOM_SHEET_12241": {
+    "string_value": "FOS_BUTTON_CALL_BOTTOM_SHEET_12241",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CUSTOM_SEARCH_BAR_4463": {
+    "string_value": "FOS_TOUCHABLE_CUSTOM_SEARCH_BAR_4463",
+    "vernac_id": ""
+  },
+  "FOS_FOS_INPUT_CUSTOM_SEARCH_BAR_3670": {
+    "string_value": "FOS_INPUT_CUSTOM_SEARCH_BAR_3670",
+    "vernac_id": ""
+  },
+  "FOS_REACT-NATIVE-VECTOR-ICONS/FONTAWESOME5": {
+    "string_value": "react-native-vector-icons/FontAwesome5",
+    "vernac_id": ""
+  },
+  "FOS_HH:MM:00": { "string_value": "HH:mm:00", "vernac_id": "" },
+  "FOS_DATETIMEPICKER": { "string_value": "dateTimePicker", "vernac_id": "" },
+  "FOS_CALL": { "string_value": "Call", "vernac_id": "" },
+  "FOS_ERROR_FETCHING_STATUS": {
+    "string_value": "Error fetching status",
+    "vernac_id": ""
+  },
+  "FOS_HARDWAREBACKPRESS": {
+    "string_value": "hardwareBackPress",
+    "vernac_id": ""
+  },
+  "FOS_SCROLLVIEW": { "string_value": "SCROLLVIEW", "vernac_id": "" },
+  "FOS_SELECT_A_STATUS": { "string_value": "Select a Status", "vernac_id": "" },
+  "FOS_FOS_TEXT_INPUT_DISPOSITION_STATUS_DROPDOWN_20357": {
+    "string_value": "FOS_TEXT_INPUT_DISPOSITION_STATUS_DROPDOWN_20357",
+    "vernac_id": ""
+  },
+  "FOS_NEXT_STEP:": { "string_value": "Next Step:", "vernac_id": "" },
+  "FOS_BOTTOM": { "string_value": "BOTTOM", "vernac_id": "" },
+  "FOS_FOS_INPUT_ICON_INPUT_BOX_1747": {
+    "string_value": "FOS_INPUT_ICON_INPUT_BOX_1747",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ICONED_BANNER_1186": {
+    "string_value": "FOS_TOUCHABLE_ICONED_BANNER_1186",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ICONED_BANNER_1792": {
+    "string_value": "FOS_TOUCHABLE_ICONED_BANNER_1792",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ICONED_BANNER_2630": {
+    "string_value": "FOS_TOUCHABLE_ICONED_BANNER_2630",
+    "vernac_id": ""
+  },
+  "FOS_CALL_CUSTOMER": { "string_value": "Call Customer", "vernac_id": "" },
+  "FOS_FOS_INPUT_INPUT_WITH_LABEL_1497": {
+    "string_value": "FOS_INPUT_INPUT_WITH_LABEL_1497",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_MENU_ICON_478": {
+    "string_value": "FOS_TOUCHABLE_MENU_ICON_478",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_NOTIFICATION_ICON_517": {
+    "string_value": "FOS_TOUCHABLE_NOTIFICATION_ICON_517",
+    "vernac_id": ""
+  },
+  "FOS_YOU_ARE_OFFLINE._SOME": {
+    "string_value": "You are Offline. Some functionalities may not work",
+    "vernac_id": ""
+  },
+  "FOS_YOU_ARE_BACK_ONLINE.": {
+    "string_value": "You are back Online.",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROMEDIUM": {
+    "string_value": "AvenirLTProMedium",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_STATUS": { "string_value": "Deposit Status", "vernac_id": "" },
+  "FOS_DEPOSIT_ID": { "string_value": "Deposit Id", "vernac_id": "" },
+  "FOS_DATE-TIME": { "string_value": "Date-Time", "vernac_id": "" },
+  "FOS_VERIFIED_BY": { "string_value": "Verified By", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOIST_ROW_4807": {
+    "string_value": "FOS_TOUCHABLE_DEPOIST_ROW_4807",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOIST_ROW_8908": {
+    "string_value": "FOS_TOUCHABLE_DEPOIST_ROW_8908",
+    "vernac_id": ""
+  },
+  "FOS_AVENIR_NEXT": { "string_value": "Avenir Next", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_BRANCH_LIST_4127": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_BRANCH_LIST_4127",
+    "vernac_id": ""
+  },
+  "FOS_FAILED_TO_FETCH_DEPOSIT": {
+    "string_value": "Failed to fetch deposit details",
+    "vernac_id": ""
+  },
+  "FOS_BRANCH_NAME": { "string_value": "Branch Name", "vernac_id": "" },
+  "FOS_BRANCH_ID": { "string_value": "Branch ID", "vernac_id": "" },
+  "FOS_ACCOUNT_NAME": { "string_value": "Account Name", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_LIST_6452": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_LIST_6452",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_LIST_8295": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_LIST_8295",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_LIST_19133": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_LIST_19133",
+    "vernac_id": ""
+  },
+  "FOS_NO_DEPOSIT_FOUND!": {
+    "string_value": "No Deposit Found!",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_PENDING_CREDIT_ROW_8002": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_PENDING_CREDIT_ROW_8002",
+    "vernac_id": ""
+  },
+  "FOS_ONLINE_COLLECTIONS_DO_NOT": {
+    "string_value": "Online collections do not require Deposition process",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_5023": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_5023",
+    "vernac_id": ""
+  },
+  "FOS_SELECT_LOANS!": { "string_value": "Select loans!", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_6608": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_6608",
+    "vernac_id": ""
+  },
+  "FOS_NO_PENDING_COLLECTIONS_FOUND!": {
+    "string_value": "No Pending Collections Found!",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_9158": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_9158",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_SORT_AND_FILTER_1471": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_SORT_AND_FILTER_1471",
+    "vernac_id": ""
+  },
+  "FOS_SELECT_DEPOSIT_LOCATION": {
+    "string_value": "Select Deposit Location",
+    "vernac_id": ""
+  },
+  "FOS_PROOF_OF_DEPOSIT": {
+    "string_value": "Proof of Deposit",
+    "vernac_id": ""
+  },
+  "FOS_NO_EMAIL_ADDRESS_AND": {
+    "string_value": "No Email Address and Mobile number found for OTP verification",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_REPORT": { "string_value": "Deposit Report", "vernac_id": "" },
+  "FOS_DEPOSIT_VERIFICATION_OTP": {
+    "string_value": "Deposit Verification OTP",
+    "vernac_id": ""
+  },
+  "FOS_BEFOREREMOVE": { "string_value": "beforeRemove", "vernac_id": "" },
+  "FOS_CONTACT_YOUR_SUPERVISOR_TO": {
+    "string_value": "Contact your supervisor to add at least one Bank details",
+    "vernac_id": ""
+  },
+  "FOS_SUBMITTING...": { "string_value": "Submitting...", "vernac_id": "" },
+  "FOS_BRANCH_REPRESENTATIVE": {
+    "string_value": "Branch Representative",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_RECEIPT_NUMBER": {
+    "string_value": "Deposit Receipt Number",
+    "vernac_id": ""
+  },
+  "FOS_EG._088213443123": {
+    "string_value": "Eg. 088213443123",
+    "vernac_id": ""
+  },
+  "FOS_ADD_COMMENT...": { "string_value": "Add Comment...", "vernac_id": "" },
+  "FOS_TYPE_HERE...": { "string_value": "Type Here...", "vernac_id": "" },
+  "FOS_FOS_BUTTON_DEPOSIT_SUBMIT_30249": {
+    "string_value": "FOS_BUTTON_DEPOSIT_SUBMIT_30249",
+    "vernac_id": ""
+  },
+  "FOS_COMMITTED_AMOUNT_IS_REQUIRED": {
+    "string_value": "Committed amount is required",
+    "vernac_id": ""
+  },
+  "FOS_THIS_TIME_HAS_PASSED_": {
+    "string_value": "This time has passed, please select a future time.",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_SELECT_REMINDER_DATE": {
+    "string_value": "Please select reminder date or time",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_ENTER_NEXT_STEP": {
+    "string_value": "Please enter next step",
+    "vernac_id": ""
+  },
+  "FOS_FORM_CREATED_SUCCESSFULLY": {
+    "string_value": "Form created successfully",
+    "vernac_id": ""
+  },
+  "FOS_FORM_SUBMITTED_SUCCESSFULLY": {
+    "string_value": "Form submitted successfully",
+    "vernac_id": ""
+  },
+  "FOS_VISIT/PTP_CREATED": {
+    "string_value": "Visit/PTP created",
+    "vernac_id": ""
+  },
+  "FOS_LOAN_ID:_": { "string_value": "Loan Id: ", "vernac_id": "" },
+  "FOS_CUSTOMER_ID:_": { "string_value": "Customer Id: ", "vernac_id": "" },
+  "FOS_FOS_TEXT_INPUT_DISPOSITION_FORM_26651": {
+    "string_value": "FOS_TEXT_INPUT_DISPOSITION_FORM_26651",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TEXT_INPUT_DISPOSITION_FORM_38723": {
+    "string_value": "FOS_TEXT_INPUT_DISPOSITION_FORM_38723",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TEXT_INPUT_DISPOSITION_FORM_44489": {
+    "string_value": "FOS_TEXT_INPUT_DISPOSITION_FORM_44489",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_DISPOSITION_FORM_45972": {
+    "string_value": "FOS_BUTTON_DISPOSITION_FORM_45972",
+    "vernac_id": ""
+  },
+  "FOS_LOAN_ATTRIBUTES": { "string_value": "Loan Attributes", "vernac_id": "" },
+  "FOS_APPLICANT_ATTRIBUTES": {
+    "string_value": "Applicant Attributes",
+    "vernac_id": ""
+  },
+  "FOS_CO_APPLICANT_ATTRIBUTES": {
+    "string_value": "Co Applicant Attributes",
+    "vernac_id": ""
+  },
+  "FOS_APPLICANT_REFERENCES": {
+    "string_value": "Applicant References",
+    "vernac_id": ""
+  },
+  "FOS_ADDITIONAL_ATTRIBUTES": {
+    "string_value": "Additional Attributes",
+    "vernac_id": ""
+  },
+  "FOS_RECOVERY_DETAILS": {
+    "string_value": "Recovery Details",
+    "vernac_id": ""
+  },
+  "FOS_EMI_SCHEDULE": { "string_value": "Emi Schedule", "vernac_id": "" },
+  "FOS_ERROR_FETCHING_VARIABLES": {
+    "string_value": "Error fetching variables",
+    "vernac_id": ""
+  },
+  "FOS_REASON_FOR_CHANGE_IS": {
+    "string_value": "Reason for change is required.",
+    "vernac_id": ""
+  },
+  "FOS_PROCESSING...": { "string_value": "Processing...", "vernac_id": "" },
+  "FOS_NO_HISTORY!": { "string_value": "No History!", "vernac_id": "" },
+  "FOS_RECEIPT_SENT": { "string_value": "Receipt sent", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_ROW_4585": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_ROW_4585",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_ROW_5328": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_ROW_5328",
+    "vernac_id": ""
+  },
+  "FOS_SELF_SCHEDULED": { "string_value": "Self Scheduled", "vernac_id": "" },
+  "FOS_MANAGER_SCHEDULED": {
+    "string_value": "Manager Scheduled",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_ROW_8878": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_ROW_8878",
+    "vernac_id": ""
+  },
+  "FOS_VISIT_": { "string_value": "Visit ", "vernac_id": "" },
+  "FOS_REQUEST_": { "string_value": "Request ", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CALL_LIST_MODAL_1102": {
+    "string_value": "FOS_TOUCHABLE_CALL_LIST_MODAL_1102",
+    "vernac_id": ""
+  },
+  "FOS_CLICK_TO_CALL": { "string_value": "Click to Call", "vernac_id": "" },
+  "FOS_MANUAL_CALL": { "string_value": "Manual Call", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CALL_TYPE_LIST_MODAL_1207": {
+    "string_value": "FOS_TOUCHABLE_CALL_TYPE_LIST_MODAL_1207",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_MULTIPLE_COMPANIES_MODAL_2751": {
+    "string_value": "FOS_TOUCHABLE_MULTIPLE_COMPANIES_MODAL_2751",
+    "vernac_id": ""
+  },
+  "FOS_MARK_COMPANY_AS_DEFAULT": {
+    "string_value": "Mark company as default",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_MULTIPLE_COMPANIES_MODAL_5240": {
+    "string_value": "FOS_BUTTON_MULTIPLE_COMPANIES_MODAL_5240",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_RESUBMISSION_CUSTOM_MODAL_1659": {
+    "string_value": "FOS_TOUCHABLE_RESUBMISSION_CUSTOM_MODAL_1659",
+    "vernac_id": ""
+  },
+  "FOS_TYPE_HERE....": { "string_value": "Type here....", "vernac_id": "" },
+  "FOS_FOS_BUTTON_RESUBMISSION_CUSTOM_MODAL_4029": {
+    "string_value": "FOS_BUTTON_RESUBMISSION_CUSTOM_MODAL_4029",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROHEAVY": {
+    "string_value": "AvenirLTProHeavy",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_RESULT_MODAL_4216": {
+    "string_value": "FOS_BUTTON_RESULT_MODAL_4216",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_REUSABLE_MODAL_1475": {
+    "string_value": "FOS_BUTTON_REUSABLE_MODAL_1475",
+    "vernac_id": ""
+  },
+  "FOS_PHONE_NO.": { "string_value": "Phone No.", "vernac_id": "" },
+  "FOS_EMAIL_ID": { "string_value": "Email Id", "vernac_id": "" },
+  "FOS_SCHEDULE_VISIT": { "string_value": "Schedule Visit", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_FILTERS_SCREEN_7679": {
+    "string_value": "FOS_TOUCHABLE_FILTERS_SCREEN_7679",
+    "vernac_id": ""
+  },
+  "FOS_FILTER_SEARCH": { "string_value": "Filter Search", "vernac_id": "" },
+  "FOS_FOS_INPUT_FILTERS_SCREEN_10232": {
+    "string_value": "FOS_INPUT_FILTERS_SCREEN_10232",
+    "vernac_id": ""
+  },
+  "FOS_NO_FILTERS_FOUND!": {
+    "string_value": "No Filters found!",
+    "vernac_id": ""
+  },
+  "FOS_CENTER": { "string_value": "Center", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_FILTERS_TYPE_LIST_1363": {
+    "string_value": "FOS_TOUCHABLE_FILTERS_TYPE_LIST_1363",
+    "vernac_id": ""
+  },
+  "FOS_RECOVERED_AMOUNT": {
+    "string_value": "Recovered Amount",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PORTFOLIO_HEADER_DETAILS_9885": {
+    "string_value": "FOS_TOUCHABLE_PORTFOLIO_HEADER_DETAILS_9885",
+    "vernac_id": ""
+  },
+  "FOS_ALLOCATED_CUSTOMERS": {
+    "string_value": "Allocated Customers",
+    "vernac_id": ""
+  },
+  "FOS_ALLOCATED_LOANS": { "string_value": "Allocated Loans", "vernac_id": "" },
+  "FOS_NOT_VISITED_CUSTOMERS": {
+    "string_value": "Not Visited Customers",
+    "vernac_id": ""
+  },
+  "FOS_NOT_VISITED_LOANS": {
+    "string_value": "Not Visited Loans",
+    "vernac_id": ""
+  },
+  "FOS_NO_CUSTOMERS_FOUND!": {
+    "string_value": "No Customers found!",
+    "vernac_id": ""
+  },
+  "FOS_NO_LOANS_FOUND!": { "string_value": "No Loans found!", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_PORTFOLIO_ROW_4855": {
+    "string_value": "FOS_TOUCHABLE_PORTFOLIO_ROW_4855",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PORTFOLIO_ROW_5788": {
+    "string_value": "FOS_TOUCHABLE_PORTFOLIO_ROW_5788",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PORTFOLIO_ROW_6997": {
+    "string_value": "FOS_TOUCHABLE_PORTFOLIO_ROW_6997",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PORTFOLIO_ROW_11296": {
+    "string_value": "FOS_TOUCHABLE_PORTFOLIO_ROW_11296",
+    "vernac_id": ""
+  },
+  "FOS_CREATED": { "string_value": "Created", "vernac_id": "" },
+  "FOS_DISTANCE": { "string_value": "Distance", "vernac_id": "" },
+  "FOS_DPD": { "string_value": "DPD", "vernac_id": "" },
+  "FOS_REMARK": { "string_value": "Remark", "vernac_id": "" },
+  "FOS_TRANSACTIONS": { "string_value": "Transactions", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_SORT_AND_FILTER_2406": {
+    "string_value": "FOS_TOUCHABLE_SORT_AND_FILTER_2406",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_SORT_AND_FILTER_4935": {
+    "string_value": "FOS_TOUCHABLE_SORT_AND_FILTER_4935",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_SORT_AND_FILTER_6412": {
+    "string_value": "FOS_TOUCHABLE_SORT_AND_FILTER_6412",
+    "vernac_id": ""
+  },
+  "FOS_CLEAR_ALL": { "string_value": "Clear All", "vernac_id": "" },
+  "FOS_FOS_BUTTON_SORT_AND_FILTER_8207": {
+    "string_value": "FOS_BUTTON_SORT_AND_FILTER_8207",
+    "vernac_id": ""
+  },
+  "FOS_APPLY": { "string_value": "Apply", "vernac_id": "" },
+  "FOS_FOS_BUTTON_SORT_AND_FILTER_8900": {
+    "string_value": "FOS_BUTTON_SORT_AND_FILTER_8900",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_OPTIONS_1640": {
+    "string_value": "FOS_TOUCHABLE_OPTIONS_1640",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_ANSWER_THE_QUESTIONS": {
+    "string_value": "Please answer the questions before moving forward",
+    "vernac_id": ""
+  },
+  "FOS_PREV": { "string_value": "Prev", "vernac_id": "" },
+  "FOS_FOS_BUTTON_QUESTIONNAIRE_4744": {
+    "string_value": "FOS_BUTTON_QUESTIONNAIRE_4744",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_QUESTIONNAIRE_6038": {
+    "string_value": "FOS_BUTTON_QUESTIONNAIRE_6038",
+    "vernac_id": ""
+  },
+  "FOS_NEXT": { "string_value": "Next", "vernac_id": "" },
+  "FOS_FOS_BUTTON_QUESTIONNAIRE_6585": {
+    "string_value": "FOS_BUTTON_QUESTIONNAIRE_6585",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_REMINDERS": {
+    "string_value": "Error fetching reminders",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_DATA": {
+    "string_value": "Error fetching data",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CALLING_LIST_11615": {
+    "string_value": "FOS_TOUCHABLE_CALLING_LIST_11615",
+    "vernac_id": ""
+  },
+  "FOS_TOMORROW": { "string_value": "Tomorrow", "vernac_id": "" },
+  "FOS_TODAY": { "string_value": "Today", "vernac_id": "" },
+  "FOS_NO_CALLS_FOUND": { "string_value": "No Calls Found", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CALLING_ROW_2855": {
+    "string_value": "FOS_TOUCHABLE_CALLING_ROW_2855",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CALLING_ROW_3164": {
+    "string_value": "FOS_TOUCHABLE_CALLING_ROW_3164",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CALLING_ROW_3884": {
+    "string_value": "FOS_TOUCHABLE_CALLING_ROW_3884",
+    "vernac_id": ""
+  },
+  "FOS_NO_PENDING_PTPS_FOUND": {
+    "string_value": "No Pending PTPs Found",
+    "vernac_id": ""
+  },
+  "FOS_MONTH": { "string_value": "Month", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_REMINDER_4506": {
+    "string_value": "FOS_TOUCHABLE_REMINDER_4506",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_REMINDER_ROW_3555": {
+    "string_value": "FOS_TOUCHABLE_REMINDER_ROW_3555",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TO_DO_LIST_3824": {
+    "string_value": "FOS_TOUCHABLE_TO_DO_LIST_3824",
+    "vernac_id": ""
+  },
+  "FOS_NO_PTPS_FOUND": { "string_value": "No PTPs Found", "vernac_id": "" },
+  "FOS_PLEASE_ADJUST_EXCESS_AMOUNT": {
+    "string_value": "Please adjust excess amount in advance payment.",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TEXT_INPUT_AMOUNT_BIFURCATION_9499": {
+    "string_value": "FOS_TEXT_INPUT_AMOUNT_BIFURCATION_9499",
+    "vernac_id": ""
+  },
+  "FOS_CHEQUE_NUMBER_IS_REQUIRED": {
+    "string_value": "Cheque number is required",
+    "vernac_id": ""
+  },
+  "FOS_CHEQUE_DATE_IS_REQUIRED": {
+    "string_value": "Cheque date is required",
+    "vernac_id": ""
+  },
+  "FOS_ACCOUNT_NUMBER_IS_REQUIRED": {
+    "string_value": "Account number is required",
+    "vernac_id": ""
+  },
+  "FOS_IFSC_CODE_IS_REQUIRED": {
+    "string_value": "IFSC code is required",
+    "vernac_id": ""
+  },
+  "FOS_BANK_NAME_IS_REQUIRED": {
+    "string_value": "Bank name is required",
+    "vernac_id": ""
+  },
+  "FOS_BRANCH_NAME_IS_REQUIRED": {
+    "string_value": "Branch name is required",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_5993": {
+    "string_value": "FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_5993",
+    "vernac_id": ""
+  },
+  "FOS_SAVE": { "string_value": "Save", "vernac_id": "" },
+  "FOS_CANCEL": { "string_value": "Cancel", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_15896": {
+    "string_value": "FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_15896",
+    "vernac_id": ""
+  },
+  "FOS_RESENDING_OTP..": { "string_value": "Resending OTP..", "vernac_id": "" },
+  "FOS_PLEASE_PROVIDE_CORRECT_OTP": {
+    "string_value": "Please provide correct OTP",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_BOTTOM_SHEET_6609": {
+    "string_value": "FOS_TOUCHABLE_TASK_BOTTOM_SHEET_6609",
+    "vernac_id": ""
+  },
+  "FOS_VERIFYING_OTP": { "string_value": "Verifying OTP", "vernac_id": "" },
+  "FOS_FOS_BUTTON_TASK_BOTTOM_SHEET_9754": {
+    "string_value": "FOS_BUTTON_TASK_BOTTOM_SHEET_9754",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_FILTERS_3926": {
+    "string_value": "FOS_TOUCHABLE_TASK_FILTERS_3926",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_FILTERS_TYPE_LIST_1193": {
+    "string_value": "FOS_TOUCHABLE_TASK_FILTERS_TYPE_LIST_1193",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_FILTERS_1639": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_FILTERS_1639",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7318": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7318",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7892": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7892",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_FILTERS_TYPE_LIST_1387": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_FILTERS_TYPE_LIST_1387",
+    "vernac_id": ""
+  },
+  "FOS_VISIT_DATE": { "string_value": "Visit Date", "vernac_id": "" },
+  "FOS_THIS_WEEK": { "string_value": "This Week", "vernac_id": "" },
+  "FOS_THIS_MONTH": { "string_value": "This Month", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_2498": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_2498",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_5832": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_5832",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_6998": {
+    "string_value": "FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_6998",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_TASK_HISTORY_SORT_AND_FILTER_9093": {
+    "string_value": "FOS_BUTTON_TASK_HISTORY_SORT_AND_FILTER_9093",
+    "vernac_id": ""
+  },
+  "FOS_ONLY_ENABLED_WHEN_2": {
+    "string_value": "Only enabled when 2 or more visits are selected.",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_PLAN_A_NEW": {
+    "string_value": "Please plan a new route",
+    "vernac_id": ""
+  },
+  "FOS_AT_MAX_10_VISITS": {
+    "string_value": "At max 10 visits can be used to plan route",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_LIST_19541": {
+    "string_value": "FOS_TOUCHABLE_TASK_LIST_19541",
+    "vernac_id": ""
+  },
+  "FOS_RESET": { "string_value": "Reset", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_TASK_LIST_20667": {
+    "string_value": "FOS_TOUCHABLE_TASK_LIST_20667",
+    "vernac_id": ""
+  },
+  "FOS_PLAN": { "string_value": "Plan", "vernac_id": "" },
+  "FOS_RESUME": { "string_value": "Resume", "vernac_id": "" },
+  "FOS_CLOSED": { "string_value": "Closed", "vernac_id": "" },
+  "FOS_MISSED": { "string_value": "Missed", "vernac_id": "" },
+  "FOS_OPEN": { "string_value": "Open", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_TASK_ROW_1578": {
+    "string_value": "FOS_TOUCHABLE_TASK_ROW_1578",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_ROW_2733": {
+    "string_value": "FOS_TOUCHABLE_TASK_ROW_2733",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_SORT_AND_FILTER_2420": {
+    "string_value": "FOS_TOUCHABLE_TASK_SORT_AND_FILTER_2420",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_SORT_AND_FILTER_5433": {
+    "string_value": "FOS_TOUCHABLE_TASK_SORT_AND_FILTER_5433",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_SORT_AND_FILTER_6239": {
+    "string_value": "FOS_TOUCHABLE_TASK_SORT_AND_FILTER_6239",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_TASK_SORT_AND_FILTER_8178": {
+    "string_value": "FOS_BUTTON_TASK_SORT_AND_FILTER_8178",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_TASK_SORT_AND_FILTER_8707": {
+    "string_value": "FOS_BUTTON_TASK_SORT_AND_FILTER_8707",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_CUSTOM_BUTTON_834": {
+    "string_value": "FOS_TOUCHABLE_CUSTOM_BUTTON_834",
+    "vernac_id": ""
+  },
+  "FOS_ONLINE": { "string_value": "Online", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_CUSTOM_RADIO_BUTTON_2309": {
+    "string_value": "FOS_TOUCHABLE_CUSTOM_RADIO_BUTTON_2309",
+    "vernac_id": ""
+  },
+  "FOS_NO": { "string_value": "No", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_TAB_1293": {
+    "string_value": "FOS_TOUCHABLE_TAB_1293",
+    "vernac_id": ""
+  },
+  "FOS_SUBHEADING": { "string_value": "subHeading", "vernac_id": "" },
+  "FOS_SUBHEADING2": { "string_value": "subHeading2", "vernac_id": "" },
+  "FOS_AVENIRLTPROBLACK": {
+    "string_value": "AvenirLTProBlack",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROBLACKOBLIQUE": {
+    "string_value": "AvenirLTProBlackOblique",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROHEAVYOBLIQUE": {
+    "string_value": "AvenirLTProHeavyOblique",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROMEDIUMOBLIQUE": {
+    "string_value": "AvenirLTProMediumOblique",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROROMAN": {
+    "string_value": "AvenirLTProRoman",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROOBLIQUE": {
+    "string_value": "AvenirLTProOblique",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROBOOK": { "string_value": "AvenirLTProBook", "vernac_id": "" },
+  "FOS_AVENIRLTPROBOOKOBLIQUE": {
+    "string_value": "AvenirLTProBookOblique",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROLIGHT": {
+    "string_value": "AvenirLTProLight",
+    "vernac_id": ""
+  },
+  "FOS_AVENIRLTPROLIGHTOBLIQUE": {
+    "string_value": "AvenirLTProLightOblique",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_LOGIN_SCREEN_1609": {
+    "string_value": "FOS_TOUCHABLE_LOGIN_SCREEN_1609",
+    "vernac_id": ""
+  },
+  "FOS_TABPRESS": { "string_value": "tabPress", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_PENDING_SCREEN_891": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_PENDING_SCREEN_891",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_COLLECTION": {
+    "string_value": "Deposit collection",
+    "vernac_id": ""
+  },
+  "FOS_COMPANY_NAME:_": { "string_value": "Company Name: ", "vernac_id": "" },
+  "FOS_DEPOSIT_ID:_": { "string_value": "Deposit Id: ", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_DEPOSIT_TIMER_SCREEN_9297": {
+    "string_value": "FOS_TOUCHABLE_DEPOSIT_TIMER_SCREEN_9297",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_SUCCESSFUL!": {
+    "string_value": "Deposit Successful!",
+    "vernac_id": ""
+  },
+  "FOS_DEPOSIT_FAILED!": { "string_value": "Deposit Failed!", "vernac_id": "" },
+  "FOS_CANCEL_DEPOSIT": { "string_value": "Cancel Deposit", "vernac_id": "" },
+  "FOS_LOAN_ID": { "string_value": "Loan Id", "vernac_id": "" },
+  "FOS_CUSTOMER_ID": { "string_value": "Customer Id", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_PENDING_DEPOSITS_4013": {
+    "string_value": "FOS_TOUCHABLE_PENDING_DEPOSITS_4013",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PENDING_DEPOSITS_5614": {
+    "string_value": "FOS_TOUCHABLE_PENDING_DEPOSITS_5614",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PENDING_DEPOSITS_7730": {
+    "string_value": "FOS_TOUCHABLE_PENDING_DEPOSITS_7730",
+    "vernac_id": ""
+  },
+  "FOS_MISSED_TASKS": { "string_value": "Missed Tasks", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_PENDING_SCREEN_4501": {
+    "string_value": "FOS_TOUCHABLE_PENDING_SCREEN_4501",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_LOAN_DETAILS": {
+    "string_value": "Error fetching loan details",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PENDING_TASK_ROW_9233": {
+    "string_value": "FOS_TOUCHABLE_PENDING_TASK_ROW_9233",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PENDING_TASK_ROW_9587": {
+    "string_value": "FOS_TOUCHABLE_PENDING_TASK_ROW_9587",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PENDING_TASK_ROW_12515": {
+    "string_value": "FOS_TOUCHABLE_PENDING_TASK_ROW_12515",
+    "vernac_id": ""
+  },
+  "FOS_PROOF_OF_VISIT": { "string_value": "Proof of Visit", "vernac_id": "" },
+  "FOS_PROOF_OF_COLLECTION": {
+    "string_value": "Proof of Collection",
+    "vernac_id": ""
+  },
+  "FOS_VISIT_REPORT": { "string_value": "Visit Report", "vernac_id": "" },
+  "FOS_FIELD_VERIFICATION_OTP": {
+    "string_value": "Field Verification OTP",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_ENTER_CORRECT_AMOUNT": {
+    "string_value": "Please enter correct amount in Committed Amount",
+    "vernac_id": ""
+  },
+  "FOS_NO_CHANGE_FROM_THE": {
+    "string_value": "No change from the previous amount",
+    "vernac_id": ""
+  },
+  "FOS_PROOF_OF_COLLECTION_IS": {
+    "string_value": "Proof of Collection is required",
+    "vernac_id": ""
+  },
+  "FOS_PLEASE_SELECT_AT_LEAST": {
+    "string_value": "Please select at least one online collection mode",
+    "vernac_id": ""
+  },
+  "FOS_INVALID_FIELD_VISIT_TYPE": {
+    "string_value": "Invalid field visit type",
+    "vernac_id": ""
+  },
+  "FOS_ENTER_VALID_RECOVERY_AMOUNT": {
+    "string_value": "Enter valid recovery amount",
+    "vernac_id": ""
+  },
+  "FOS_VISIT_CLOSED_SUCCESSFULLY": {
+    "string_value": "Visit closed successfully",
+    "vernac_id": ""
+  },
+  "FOS_FEEDBACK_FORM": { "string_value": "Feedback Form", "vernac_id": "" },
+  "FOS_PLEASE_FILL_THE_SURVEY": {
+    "string_value": "Please fill the survey form",
+    "vernac_id": ""
+  },
+  "FOS_REMINDER_CREATED_SUCCESSFULLY": {
+    "string_value": "Reminder Created successfully",
+    "vernac_id": ""
+  },
+  "FOS_VISIT/PTP_SUBMITTED_SUCCESSFULLY": {
+    "string_value": "Visit/PTP submitted successfully",
+    "vernac_id": ""
+  },
+  "FOS_OKAY": { "string_value": "Okay", "vernac_id": "" },
+  "FOS_NO_COLLECTION_RECEIPT_FOUND": {
+    "string_value": "No collection receipt found",
+    "vernac_id": ""
+  },
+  "FOS_FETCHING_YOUR_LOCATION": {
+    "string_value": "Fetching your location",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_DETAILS_V2-2_62004": {
+    "string_value": "FOS_TOUCHABLE_TASK_DETAILS_V2-2_62004",
+    "vernac_id": ""
+  },
+  "FOS_PREVIOUS": { "string_value": "Previous", "vernac_id": "" },
+  "FOS_FOS_BUTTON_TASK_DETAILS_V2-2_65458": {
+    "string_value": "FOS_BUTTON_TASK_DETAILS_V2-2_65458",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_TASK_DETAILS_V2-2_66236": {
+    "string_value": "FOS_TOUCHABLE_TASK_DETAILS_V2-2_66236",
+    "vernac_id": ""
+  },
+  "FOS_ERROR_FETCHING_RECOVERY_VARIABLES": {
+    "string_value": "Error fetching recovery variables",
+    "vernac_id": ""
+  },
+  "FOS_VISIT_DONE": { "string_value": "Visit Done", "vernac_id": "" },
+  "FOS_CUSTOMER_MET": { "string_value": "Customer Met", "vernac_id": "" },
+  "FOS_AMOUNT_COLLECTED": {
+    "string_value": "Amount Collected",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_TASK_DETAILS_V2_25597": {
+    "string_value": "FOS_BUTTON_TASK_DETAILS_V2_25597",
+    "vernac_id": ""
+  },
+  "FOS_RECEIPT_HAS_BEEN_DOWNLOADED": {
+    "string_value": "Receipt has been downloaded successfully",
+    "vernac_id": ""
+  },
+  "FOS_DOWNLOADING...": { "string_value": "Downloading...", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4169": {
+    "string_value": "FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4169",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4562": {
+    "string_value": "FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4562",
+    "vernac_id": ""
+  },
+  "FOS_PAYMENT_RECEIPT": { "string_value": "Payment Receipt", "vernac_id": "" },
+  "FOS_NOTICE": { "string_value": "Notice", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_ADD_ADRESS_MAP_10569": {
+    "string_value": "FOS_TOUCHABLE_ADD_ADRESS_MAP_10569",
+    "vernac_id": ""
+  },
+  "FOS_NO_ADDRESS_FOUND": {
+    "string_value": "No address found",
+    "vernac_id": ""
+  },
+  "FOS_MARK_ADDRESS_AS_DEFAULT": {
+    "string_value": "Mark address as default",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ADD_ADRESS_MAP_16196": {
+    "string_value": "FOS_TOUCHABLE_ADD_ADRESS_MAP_16196",
+    "vernac_id": ""
+  },
+  "FOS_FAILED": { "string_value": "Failed", "vernac_id": "" },
+  "FOS_NOT_REQUIRED": { "string_value": "Not Required", "vernac_id": "" },
+  "FOS_PARTIALLY_RECOVERED": {
+    "string_value": "Partially Recovered",
+    "vernac_id": ""
+  },
+  "FOS_PENDING": { "string_value": "Pending", "vernac_id": "" },
+  "FOS_PTPS": { "string_value": "PTPs", "vernac_id": "" },
+  "FOS_SURPRISE_VISITS": { "string_value": "Surprise Visits", "vernac_id": "" },
+  "FOS_DEPOSITS": { "string_value": "Deposits", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_APP_ALERT_DIALOG_2983": {
+    "string_value": "FOS_TOUCHABLE_APP_ALERT_DIALOG_2983",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_ALERT_DIALOG_5048": {
+    "string_value": "FOS_TOUCHABLE_APP_ALERT_DIALOG_5048",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_APP_ALERT_DIALOG_5709": {
+    "string_value": "FOS_TOUCHABLE_APP_ALERT_DIALOG_5709",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_3093": {
+    "string_value": "FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_3093",
+    "vernac_id": ""
+  },
+  "FOS_OPEN_SETTINGS": { "string_value": "Open Settings", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_5424": {
+    "string_value": "FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_5424",
+    "vernac_id": ""
+  },
+  "FOS_OPEN_CAMERA": { "string_value": "Open Camera", "vernac_id": "" },
+  "FOS_SELECT_FROM_GALLERY": {
+    "string_value": "Select from Gallery",
+    "vernac_id": ""
+  },
+  "FOS_ALLOW": { "string_value": "Allow", "vernac_id": "" },
+  "FOS_RESTART_APP": { "string_value": "Restart App", "vernac_id": "" },
+  "FOS_SKIP": { "string_value": "Skip", "vernac_id": "" },
+  "FOS_CLOSE_APP": { "string_value": "Close App", "vernac_id": "" },
+  "FOS_TRY_NOW": { "string_value": "Try Now", "vernac_id": "" },
+  "FOS_SOME_ERROR_OCURRED": {
+    "string_value": "Some Error Ocurred",
+    "vernac_id": ""
+  },
+  "FOS_GO_BACK": { "string_value": "Go Back", "vernac_id": "" },
+  "FOS_FOS_BUTTON_SIMPLER_ALERT_DIALOG_1989": {
+    "string_value": "FOS_BUTTON_SIMPLER_ALERT_DIALOG_1989",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_SIMPLER_ALERT_DIALOG_2522": {
+    "string_value": "FOS_BUTTON_SIMPLER_ALERT_DIALOG_2522",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_AMOUNT_CARD_6573": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_AMOUNT_CARD_6573",
+    "vernac_id": ""
+  },
+  "FOS_TOTAL_AMOUNT": { "string_value": "Total Amount", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_CARD_12356": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_CARD_12356",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_CARD_22680": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_CARD_22680",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_3539": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_3539",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_5264": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_5264",
+    "vernac_id": ""
+  },
+  "FOS__BRANCH": { "string_value": " Branch", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_6337": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_6337",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_HELP_SECTION_COMPONENT_1355": {
+    "string_value": "FOS_TOUCHABLE_HELP_SECTION_COMPONENT_1355",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_EXPANDABLE_VIEW_3537": {
+    "string_value": "FOS_TOUCHABLE_EXPANDABLE_VIEW_3537",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ITEM_ROW_2701": {
+    "string_value": "FOS_TOUCHABLE_ITEM_ROW_2701",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ITEM_ROW_4857": {
+    "string_value": "FOS_TOUCHABLE_ITEM_ROW_4857",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ITEM_ROW_6126": {
+    "string_value": "FOS_TOUCHABLE_ITEM_ROW_6126",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_ITEM_ROW_7172": {
+    "string_value": "FOS_TOUCHABLE_ITEM_ROW_7172",
+    "vernac_id": ""
+  },
+  "FOS_VIEW_RESPONSES": { "string_value": "View responses", "vernac_id": "" },
+  "FOS_FILL_FEEDBACK": { "string_value": "Fill feedback", "vernac_id": "" },
+  "FOS_VIEW": { "string_value": "View", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_PDF_BUTTON_814": {
+    "string_value": "FOS_TOUCHABLE_PDF_BUTTON_814",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4469": {
+    "string_value": "FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4469",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4938": {
+    "string_value": "FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4938",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_6673": {
+    "string_value": "FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_6673",
+    "vernac_id": ""
+  },
+  "FOS_PAYMENT_DATE_IS_REQUIRED": {
+    "string_value": "Payment date is required",
+    "vernac_id": ""
+  },
+  "FOS_UTR_NUMBER_IS_REQUIRED": {
+    "string_value": "UTR number is required",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_BANK_TRANSFER_SCREEN_3826": {
+    "string_value": "FOS_BUTTON_BANK_TRANSFER_SCREEN_3826",
+    "vernac_id": ""
+  },
+  "FOS_FOS_BUTTON_OTHER_METHODS_SCREEN_2185": {
+    "string_value": "FOS_BUTTON_OTHER_METHODS_SCREEN_2185",
+    "vernac_id": ""
+  },
+  "FOS_REACT-NATIVE-VECTOR-ICONS/ANTDESIGN": {
+    "string_value": "react-native-vector-icons/AntDesign",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_4585": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_4585",
+    "vernac_id": ""
+  },
+  "FOS_NO_PAYMENT_LINK_FOUND!": {
+    "string_value": "No Payment link found! Please check with your admin",
+    "vernac_id": ""
+  },
+  "FOS_LOAN_ID_NOT_FOUND": {
+    "string_value": "Loan ID not found",
+    "vernac_id": ""
+  },
+  "FOS_SOME_ERROR_OCCURRED.": {
+    "string_value": "Some error occurred.",
+    "vernac_id": ""
+  },
+  "FOS_BANK_TRANSFER_DETAILS_ADDED": {
+    "string_value": "Bank transfer details added successfully",
+    "vernac_id": ""
+  },
+  "FOS_PAYMENT_ATTEMPTED_THROUGH_QR": {
+    "string_value": "Payment attempted through QR Code Scanner",
+    "vernac_id": ""
+  },
+  "FOS_NO_TEMPLATE_FOUND!_PLEASE": {
+    "string_value": "No template found! Please use the QR scanner method.",
+    "vernac_id": ""
+  },
+  "FOS_PAYMENT_LINK_SHARING_FAILED": {
+    "string_value": "Payment Link Sharing Failed",
+    "vernac_id": ""
+  },
+  "FOS_QR_DISPLAY_FAILED!": {
+    "string_value": "QR display failed!",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_31148": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_31148",
+    "vernac_id": ""
+  },
+  "FOS_RESEND": { "string_value": "Resend", "vernac_id": "" },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_32893": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_32893",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34435": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34435",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34928": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34928",
+    "vernac_id": ""
+  },
+  "FOS_FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_35863": {
+    "string_value": "FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_35863",
+    "vernac_id": ""
+  },
+  "FOS__GENERATE_QR": { "string_value": " Generate QR", "vernac_id": "" },
+  "FOS_SEND_PAYMENT_LINK": {
+    "string_value": "Send Payment Link",
+    "vernac_id": ""
+  },
+  "FOS_FIELD_VISIT/PTP_ALREADY_OPEN": {
+    "string_value": "Field Visit/PTP already open for this loan.",
+    "vernac_id": ""
+  },
+  "FOS_CHECK_FROM_HERE": { "string_value": "Check from here", "vernac_id": "" },
+  "FOS_PTP": { "string_value": "PTP", "vernac_id": "" },
+  "FOS_VISIT_PURPOSE": { "string_value": "Visit Purpose", "vernac_id": "" },
+  "FOS_DATE": { "string_value": "Date", "vernac_id": "" },
+  "FOS_TIME": { "string_value": "Time", "vernac_id": "" },
+  "FOS_ADD_COMMENT": { "string_value": "Add Comment", "vernac_id": "" },
+  "FOS_CREATE": { "string_value": "Create", "vernac_id": "" }
+}

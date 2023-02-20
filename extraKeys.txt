@@ -1,0 +1,22 @@
+const data: ReceiptGenerationDataType = {
+            address: address,
+            applicant_name: applicant_name!,
+            company_name: companyName,
+            company_address: companyAddressText,
+            company_city: companyAddressCity,
+            company_state: companyAddressState,
+            company_pincode: companyAddressPincode,
+            company_type: companyType!,
+            agent_name: authData?.name!,
+            loan_id: taskData.loan_id,
+            payment_method: taskData.payment_method,
+            amount_bifurcation: recVarsFormData,
+            currency_code: currencySymbol,
+            amount_recovered: taskData.amount_recovered,
+            amount_recovered_in_words: keyConverter(
+                toWords(taskData.amount_recovered)
+            ),
+            visit_date: moment().format('DD-MM-YYYY'),
+            companyLogo: companyLogo,
+            transaction_data: taskData.transanctions_data
+        };
