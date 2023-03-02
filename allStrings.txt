@@ -7,7 +7,6 @@ Yes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components
 Close      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
 Auth token not found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
 Error logging out      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
-FOS_TOUCHABLE_CUSTOMER_DRAWER_LAYOUT_601      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
 Switch Accounts      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
 Help      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
 Logout      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/CustomDrawerLayout.tsx
@@ -22,17 +21,10 @@ No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/
 No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 Calling not supported in C2C method in offline method      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 Error creating new visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-FOS_TOUCHABLE_DETAILS_HEADER_18788      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 Loan Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-FOS_TOUCHABLE_DETAILS_HEADER_21657      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 DETAILS      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-FOS_TOUCHABLE_DETAILS_HEADER_28947      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
-FOS_TOUCHABLE_DETAILS_HEADER_31081      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DetailsHeader.tsx
 Try again      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ErrorBoundary.tsx
 N A      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/TitleAvatar.tsx
 1Fa      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/Events.ts
@@ -72,7 +64,6 @@ Application user can view history of visits done and deposits made by accessing 
 Deposit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/HelpSectionList.ts
 How to i deposit collected amount in company's account?      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/HelpSectionList.ts
 Collected amount via 'cash' or ' cheque' method can be deposited in a bank branch/company branch as per details provided by the company. To perform a deposit user needs to go to the \      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/HelpSectionList.ts
-Content-Type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
 Camera Permission Required!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
 Media Permission Required!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
 To continue,give media permission to the app from settings-> apps -> fos -> permissions -> media.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
@@ -101,15 +92,12 @@ Access Denied!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App
 This application is not supported when GPS location services are turned off.\n\nPlease go to your settings and turn them on to continue      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
 Alert!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
 We are unable to fetch your location! Try again.\nIf the issue still continues, try turning your GPS OFF and then ON again      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/constants/constants.ts
-intl/locale-data/jsonp/en-US      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 Rp      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
-en-US      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 Access Unauthorized      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 LOGOUT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 Network Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 Seems like you're offline      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/Auth.tsx
 balancedPowerAccuracy      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/ClockInStatusContext.tsx
-HH:mm      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/ClockInStatusContext.tsx
 Point      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/ClockInStatusContext.tsx
 CG Collect      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/ClockInStatusContext.tsx
 You are online!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/ClockInStatusContext.tsx
@@ -123,66 +111,23 @@ Sub disposition 1 is required      ---->>>>>      /Users/saumyabhatnagar/credgen
 Sub disposition 2 is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/TaskSubmissionContext.tsx
 Checked step is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/TaskSubmissionContext.tsx
 Remark/Comment is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/contexts/TaskSubmissionContext.tsx
-useAuth must be used within an AuthProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useAction.ts
-useAuth must be used within an AuthProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useAuth.ts
-useClockIn must be used within an ClockInStatusContextProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useClockIn.ts
-Documents      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
 Error generating receipt      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
-Content-Type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
-Content-Type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useCloseVisit.ts
-useLocation must be used within an LocationProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useLocation.ts
-useAuth must be used within an AuthProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useTaskAction.ts
-useTaskFilter must be used within an TaskFilterProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useTaskFilter.ts
-useTaskHistoryFilter must be used within an taskFilterHistoryProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useTaskHistoryFilter.tsx
-useTaskSubmission must be used within an TaskSubmissionProvider      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/hooks/useTaskSubmissionAction.ts
-HomeTab      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-HomeTab      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-Portfolio      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-Scheduled Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-Collections      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/BottomTabNavigator.tsx
-Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-Profile      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-Profile      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-History      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-History      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/DrawerNavigator.tsx
-Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-FieldVisitHistory      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-DepositHistory      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-AddAddressAdditionMap      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-PendingTasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-TaskDetailsV2-2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/navigation/RootStackNavigator.tsx
-loanDetail/allLoan      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/loanDetailSlice.ts
-loanDetail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/loanDetailSlice.ts
-offlineVisitData/allStatus      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/offlineVisitDataSlice.ts
-offlineVisitData/allStatusFos      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/offlineVisitDataSlice.ts
-offlineVisitData/recsVars      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/offlineVisitDataSlice.ts
-offlineVisitDataSlice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/offlineVisitDataSlice.ts
-LOGOUT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/store.ts
-COMPANY_CHANGE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/redux/store.ts
 Choose Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/AddAddressMapScreen.tsx
 New Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/AddAddressMapScreen.tsx
 Add Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/AddAddressScreen.tsx
 Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 Calling      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 Legal      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 Digital Notice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 Speed Post      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 History      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CombineHistory.tsx
 Customer Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CustomerProfile.tsx
 Activity Summary      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CustomerProfile.tsx
-FOS_TOUCHABLE_CUSTOMER_PROFILE_8580      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CustomerProfile.tsx
-MMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CustomerProfile.tsx
 Allocation Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/CustomerProfile.tsx
 Disposition Form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/DispositionFormScreen.tsx
 Help      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/HelpSectionScreen.tsx
 History      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/HistoryScreen.tsx
 Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/HomeTab.tsx
-FOS_TOUCHABLE_MAP_SCREEN_3654      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/MapScreen.tsx
 No visits found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/MapScreen.tsx
 Error fetching user location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/MapScreen.tsx
 No route available      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/MapScreen.tsx
@@ -204,8 +149,6 @@ Loading feedback responses      ---->>>>>      /Users/saumyabhatnagar/credgenics
 Loading feedback form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
 Submitting response      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
 Loan Details not found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
-FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8425      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
-FOS_TOUCHABLE_QUESTIONNAIRE_SCREEN_8945      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
 Success      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
 DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
 Feedback pending      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/QuestionnaireScreen.tsx
@@ -215,19 +158,13 @@ Fill later      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/scr
 Retry      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/SyncScreen.tsx
 Close      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/SyncScreen.tsx
 Update      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/UpdateAvailableScreen.tsx
-FOS_BUTTON_UPDATE_AVAILABLE_SCREEN_1941      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/UpdateAvailableScreen.tsx
 Content-Type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/apiRequest.ts
 Content-Type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/apiRequest.ts
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/imageUtils.ts
-GET      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/imageUtils.ts
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 INVALID KEY      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Not Available      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Wrong url      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-Wrong url      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-GET      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Permission Denied!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 You need to give storage permission to download the file      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Jan      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
@@ -242,9 +179,6 @@ Sep      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/u
 Oct      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Nov      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Dec      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-isoWeek      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-isoWeek      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
-Unable to fetch location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Unable to fetch location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
  Cr      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
  M      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
@@ -252,17 +186,12 @@ Unable to fetch location      ---->>>>>      /Users/saumyabhatnagar/credgenics-f
 M      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Some error Occured      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/services/utils.ts
 Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-Work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Address Added Successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 houseNumber      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Floor      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 towerName      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
@@ -270,14 +199,6 @@ Landmark      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/compo
 addressType      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Use this as customer's updated address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
 Add Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-FOS_BUTTON_ADD_ADRESS_FORM_16119      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/AddAddress/AddAdressForm.tsx
-FOS_TOUCHABLE_BUTTON_470      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/Button.tsx
-FOS_TOUCHABLE_DATE_RAGE_PICKER_10959      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
-MMMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
-FOS_TOUCHABLE_DATE_RAGE_PICKER_12081      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
-FOS_TOUCHABLE_DATE_RAGE_PICKER_13383      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
-FOS_TOUCHABLE_DATE_RAGE_PICKER_14013      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/DateRagePicker.tsx
-FOS_TOUCHABLE_DAY_1417      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/DateRangePicker/Day.tsx
 Location is mocked      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
 This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
 Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
@@ -287,15 +208,11 @@ Clocked out successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-f
 Error clocking out      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
 Clock-Out      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
 Clock-In      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
-FOS_TOUCHABLE_CLOCK_IN_OUT_7407      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
-FOS_TOUCHABLE_CLOCK_IN_OUT_7909      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOut.tsx
-FOS_TOUCHABLE_CLOCK_IN_OUT_STATUS_902      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ClockInOutStatus.tsx
 Please fill the required details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Please enter valid phone number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Please enter valid email id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Please fill the company name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Login successful      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
-Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Select an item      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Select a company to continue.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
@@ -303,64 +220,201 @@ Company Name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/c
 Password      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Logging in      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Login      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
-FOS_BUTTON_LOGIN_19238      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/Login.tsx
 Password mismatch!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 Username      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 OTP Authentication Failed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 New Password      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 Confirm Password      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
-FOS_BUTTON_NEW_PASSWORD_3892      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/NewPassword.tsx
 Invalid OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Login successful      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
-Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Select a company to continue.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Verifying      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Resending      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
 Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
-FOS_BUTTON_ONE_TIME_PASSWORD_15103      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
-FOS_TOUCHABLE_ONE_TIME_PASSWORD_15390      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/OneTimePassword.tsx
-FOS_INPUT_PASSWORD_INPUT_1387      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/PasswordInput.tsx
 Enter email address!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ResetPassword.tsx
 Email      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ResetPassword.tsx
 Send OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ResetPassword.tsx
-FOS_BUTTON_RESET_PASSWORD_3437      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/ResetPassword.tsx
-M46.2494 17.3435C46.2494 26.9218 38.4843 34.6869 28.906 34.6869C19.3276 34.6869 11.5625 26.9218 11.5625 17.3435C11.5625 7.76432 19.3276 0 28.906 0C38.4843 0 46.2494 7.76432 46.2494 17.3435Z      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/UserProfileIcon.tsx
-M28.9051 36.7676C12.9491 36.7676 0 49.4864 0 66.8302H57.8122C57.8114 49.486 44.8619 36.7676 28.9051 36.7676Z      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/UserProfileIcon.tsx
-xMinYMin slice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyFooter.tsx
-M108.872 86.343C59.516 113.625 15.726 100.129 0 89.97V156h360V4.35C235.161-18.143 170.565 52.24 108.871 86.343z      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyFooter.tsx
-userSpaceOnUse      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyFooter.tsx
-xMinYMin slice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyHeader.tsx
-M251.129 54.03C300.484 32.867 344.274 43.335 360 51.214V0H0v117.626c124.839 17.447 189.435-37.145 251.129-63.597z      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyHeader.tsx
-M251.129 41.08c49.355-16.09 93.145-8.13 108.871-2.14V0H0v89.434C124.839 102.7 189.435 61.192 251.129 41.08z      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyHeader.tsx
-userSpaceOnUse      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/auth/WavyHeader.tsx
+SMS      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+E-mail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Number already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Email already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Enter valid phone number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Enter valid e-mail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Details updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Module access not permitted      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Permission denied. Contact your admin      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Email Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Phone Number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Add      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+Save for Future      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
+No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+AddAddressAdditionMap      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Overall      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Some error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Some error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+See More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+See Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
+Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
+DepositSelections      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
+Allocation Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
+Sort      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
+Filter      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
+Number already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Enter valid number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+No transaction found for current allocation month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Details updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Module access not permitted      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Permission denied. Contact your admin      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Add      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
+Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CustomSearchBar.tsx
+Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
+Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
+Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
+Select a Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
+Next Step:      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
+BOTTOM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DropDown.tsx
+Call Customer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconedBanner.tsx
+You are Offline. Some functionalities may not work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/OfflineBanner.tsx
+You are back Online.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/OfflineBanner.tsx
+Deposit Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
+Deposit Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
+Date-Time      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
+Deposit Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
+Verified By      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
+Failed to fetch deposit details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
+Branch Name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
+Branch ID      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
+Account Name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
+No Deposit Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingCreditRow.tsx
+Online collections do not require Deposition process      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
+Select loans!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
+No Pending Collections Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
+Avenir Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingRow.tsx
+Select Deposit Location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Proof of Deposit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+No Email Address and Mobile number found for OTP verification      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Deposit Report      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Deposit Verification OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+beforeRemove      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Contact your supervisor to add at least one Company details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Contact your supervisor to add at least one Bank details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+CLOSE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Submitting...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Branch Representative      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Deposit Receipt Number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Eg. 088213443123      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Add Comment...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Type Here...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
+Reason for change is required.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
+Processing...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
+No History!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
+Receipt sent      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+Self Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+Manager Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+Visit       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+Request       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
+DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/BulkCreateModal.tsx
+Click to Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallTypeListModal.tsx
+Manual Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallTypeListModal.tsx
+Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ClosedLoanErrorModal.tsx
+Close      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ClosedLoanErrorModal.tsx
+Mark company as default      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
+Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
+Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
+Type here....      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
+Loan Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Applicant Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Co Applicant Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Applicant References      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Additional Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Recovery Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Emi Schedule      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Error fetching variables      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Loan Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
+Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Reminder date is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Reminder time is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Committed amount is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Disposition is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Sub disposition 1 is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Sub disposition 2 is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Remark/Comment is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+This time has passed, please select a future time.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Please select reminder date or time      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Please fill the required details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Please enter next step      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Form created successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Visit/PTP created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Visit/PTP created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Error submitting form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Loan Id:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Customer Id:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Next Step:      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
+Schedule Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/ActionButton.tsx
+Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
+Filter Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
+No Filters found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
+Center      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersTypeList.tsx
+Recovered Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Allocation Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Allocated Customers      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Allocated Loans      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Not Visited Customers      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+Not Visited Loans      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
+This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
+Fetching Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
+No Customers found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
+No Loans found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
+Created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Distance      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+DPD      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Remark      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Transactions      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Clear All      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Apply      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
+Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
+Phone No.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
+Email Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
+Please answer the questions before moving forward      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
+Prev      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
+Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
+Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
 Max. Limit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
 Collection in Hand      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
 Available Limit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
-FOS_TOUCHABLE_CARD_2558      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
 See Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
 See More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Card.tsx
 Dashboard      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/Dashboard.tsx
 Collections      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
 Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
-DD MMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
-DD MMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
-FOS_TOUCHABLE_DASHBOARD_CARD_5036      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
 Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/DashboardCard.tsx
 Error fetching missed tasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/MissedTask.tsx
-FOS_TOUCHABLE_MISSED_TASK_2434      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/MissedTask.tsx
-HH:mm:ss      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskCallingItem.tsx
-h:mm A      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskCallingItem.tsx
-FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2139      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskCallingItem.tsx
-FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_2603      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskCallingItem.tsx
-FOS_TOUCHABLE_NEXT_TASK_CALLING_ITEM_3732      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskCallingItem.tsx
 Unable to fetch Visit/PTP details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
 Error fetching details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
-HH:mm:ss      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
-h:mm A      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
-FOS_TOUCHABLE_NEXT_TASK_ITEM_3618      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTaskItem.tsx
 Error fetching visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTasksComponent.tsx
 Reminder closed successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTasksComponent.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/NextTasksComponent.tsx
@@ -375,322 +429,29 @@ Planned PTP Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app
 Completed Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/TodaysCalenderComponent.tsx
 Pending Deposits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/TodaysCalenderComponent.tsx
 Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/TodaysCalenderComponent.tsx
-FOS_TOUCHABLE_TODAYS_CALENDER_COMPONENT_5461      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/dashboard/TodaysCalenderComponent.tsx
-SMS      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-E-mail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Number already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Email already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Enter valid phone number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Enter valid e-mail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Details updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Module access not permitted      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Permission denied. Contact your admin      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-FOS_TEXT_INPUT_ADD_CONTACT_NUMBER_6173      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Email Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Phone Number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Add      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-FOS_BUTTON_ADD_CONTACT_NUMBER_7573      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-Save for Future      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddContactNumber.tsx
-No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-AddAddressAdditionMap      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Overall      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Some error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Some error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_14730      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_17938      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_18966      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_20110      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_21397      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_TOUCHABLE_ADDRESS_BOTTOM_SHEET_24967      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-See More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-See Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-FOS_BUTTON_ADDRESS_BOTTOM_SHEET_29180      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AddressBottomSheet.tsx
-Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-DepositSelections      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-Allocation Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_6570      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_7125      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_7398      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_9016      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_9585      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-Sort      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-Filter      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_APP_BAR_15808      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/AppBar.tsx
-FOS_TOUCHABLE_BUTTON_356      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Button.tsx
-Number already present      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Enter valid number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-No transaction found for current allocation month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Details updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Module access not permitted      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Permission denied. Contact your admin      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-FOS_TOUCHABLE_CALL_BOTTOM_SHEET_9587      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-FOS_TOUCHABLE_CALL_BOTTOM_SHEET_10683      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-FOS_TEXT_INPUT_CALL_BOTTOM_SHEET_11467      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Add      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-FOS_BUTTON_CALL_BOTTOM_SHEET_12241      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CallBottomSheet.tsx
-Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CustomSearchBar.tsx
-FOS_TOUCHABLE_CUSTOM_SEARCH_BAR_4463      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CustomSearchBar.tsx
-FOS_INPUT_CUSTOM_SEARCH_BAR_3670      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/CustomSearchBar.tsx
-react-native-vector-icons/FontAwesome5      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DateTimePicker.tsx
-HH:mm:00      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DateTimePicker.tsx
-dateTimePicker      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DateTimePicker.tsx
-Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Select a Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Select a Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Select a Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-FOS_TEXT_INPUT_DISPOSITION_STATUS_DROPDOWN_20357      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-Next Step:      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DispositionStatusDropdown.tsx
-BOTTOM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/DropDown.tsx
-FOS_INPUT_ICON_INPUT_BOX_1747      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconInputBox.tsx
-FOS_TOUCHABLE_ICONED_BANNER_1186      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconedBanner.tsx
-FOS_TOUCHABLE_ICONED_BANNER_1792      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconedBanner.tsx
-FOS_TOUCHABLE_ICONED_BANNER_2630      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconedBanner.tsx
-Call Customer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/IconedBanner.tsx
-FOS_INPUT_INPUT_WITH_LABEL_1497      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/InputWithLabel.tsx
-FOS_TOUCHABLE_MENU_ICON_478      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/MenuIcon.tsx
-react-native-vector-icons/FontAwesome5      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/NotificationIcon.tsx
-FOS_TOUCHABLE_NOTIFICATION_ICON_517      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/NotificationIcon.tsx
-You are Offline. Some functionalities may not work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/OfflineBanner.tsx
-You are back Online.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/OfflineBanner.tsx
-AvenirLTProMedium      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/RadioButtonGroup.tsx
-Deposit Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-Deposit Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-Date-Time      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-Deposit Status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-Verified By      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-FOS_TOUCHABLE_DEPOIST_ROW_4807      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-FOS_TOUCHABLE_DEPOIST_ROW_8908      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-Avenir Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepoistRow.tsx
-FOS_TOUCHABLE_DEPOSIT_BRANCH_LIST_4127      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositBranchList.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-Failed to fetch deposit details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-Branch Name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-Branch ID      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-Account Name      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-FOS_TOUCHABLE_DEPOSIT_LIST_6452      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-FOS_TOUCHABLE_DEPOSIT_LIST_8295      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-FOS_TOUCHABLE_DEPOSIT_LIST_19133      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-No Deposit Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-Avenir Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositList.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingCreditRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingCreditRow.tsx
-FOS_TOUCHABLE_DEPOSIT_PENDING_CREDIT_ROW_8002      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingCreditRow.tsx
-Online collections do not require Deposition process      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_5023      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-Select loans!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_6608      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-No Pending Collections Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-FOS_TOUCHABLE_DEPOSIT_PENDING_LIST_9158      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-Avenir Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingList.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositPendingRow.tsx
-FOS_TOUCHABLE_DEPOSIT_SORT_AND_FILTER_1471      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSortAndFilter.tsx
-Select Deposit Location      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Proof of Deposit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-No Email Address and Mobile number found for OTP verification      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Deposit Report      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Deposit Verification OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-beforeRemove      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Contact your supervisor to add at least one Company details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Contact your supervisor to add at least one Bank details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-CLOSE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Submitting...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Branch Representative      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Deposit Receipt Number      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Eg. 088213443123      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Add Comment...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Type Here...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-FOS_BUTTON_DEPOSIT_SUBMIT_30249      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-AvenirLTProMedium      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/deposit/DepositSubmit.tsx
-Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Reminder date is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Reminder time is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Committed amount is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Disposition is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Sub disposition 1 is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Sub disposition 2 is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Remark/Comment is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error fetching status      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-This time has passed, please select a future time.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Please select reminder date or time      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Please fill the required details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Please enter next step      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Form created successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Visit/PTP created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Visit/PTP created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Form submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Error submitting form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Loan Id:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Customer Id:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-FOS_TEXT_INPUT_DISPOSITION_FORM_26651      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-SCROLLVIEW      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-FOS_TEXT_INPUT_DISPOSITION_FORM_38723      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-FOS_TEXT_INPUT_DISPOSITION_FORM_44489      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Next Step:      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-FOS_BUTTON_DISPOSITION_FORM_45972      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/disposition/DispositionForm.tsx
-Loan Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Applicant Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Co Applicant Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Applicant References      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Additional Attributes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Recovery Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Emi Schedule      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Error fetching variables      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Loan Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/loanDetails/LoanDetails.tsx
-Reason for change is required.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
-Processing...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
-No History!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/HistoryList.tsx
-Receipt sent      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-FOS_TOUCHABLE_TASK_HISTORY_ROW_4585      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-FOS_TOUCHABLE_TASK_HISTORY_ROW_5328      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-Self Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-Manager Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-FOS_TOUCHABLE_TASK_HISTORY_ROW_8878      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-Visit       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-Request       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/history/TaskHistoryRow.tsx
-DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/BulkCreateModal.tsx
-FOS_TOUCHABLE_CALL_LIST_MODAL_1102      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallListModal.tsx
-Click to Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallTypeListModal.tsx
-Manual Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallTypeListModal.tsx
-FOS_TOUCHABLE_CALL_TYPE_LIST_MODAL_1207      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/CallTypeListModal.tsx
-Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ClosedLoanErrorModal.tsx
-Close      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ClosedLoanErrorModal.tsx
-FOS_TOUCHABLE_MULTIPLE_COMPANIES_MODAL_2751      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
-Mark company as default      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
-Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
-FOS_BUTTON_MULTIPLE_COMPANIES_MODAL_5240      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/MultipleCompaniesModal.tsx
-FOS_TOUCHABLE_RESUBMISSION_CUSTOM_MODAL_1659      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
-Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
-Type here....      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
-FOS_BUTTON_RESUBMISSION_CUSTOM_MODAL_4029      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResubmissionCustomModal.tsx
-AvenirLTProHeavy      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResultModal.tsx
-FOS_BUTTON_RESULT_MODAL_4216      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ResultModal.tsx
-FOS_BUTTON_REUSABLE_MODAL_1475      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/modals/ReusableModal.tsx
-Some Error Occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
-Phone No.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
-Email Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/profile/UserProfile.tsx
-Schedule Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/ActionButton.tsx
-Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
-FOS_TOUCHABLE_FILTERS_SCREEN_7679      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
-Filter Search      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
-FOS_INPUT_FILTERS_SCREEN_10232      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
-No Filters found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersScreen.tsx
-Center      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersTypeList.tsx
-FOS_TOUCHABLE_FILTERS_TYPE_LIST_1363      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/FiltersTypeList.tsx
-Recovered Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-Allocation Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-FOS_TOUCHABLE_PORTFOLIO_HEADER_DETAILS_9885      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-Allocated Customers      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-Allocated Loans      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-Not Visited Customers      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-Not Visited Loans      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioHeaderDetails.tsx
-This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
-Fetching Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
-No Customers found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
-No Loans found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioList.tsx
-FOS_TOUCHABLE_PORTFOLIO_ROW_4855      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-FOS_TOUCHABLE_PORTFOLIO_ROW_5788      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-FOS_TOUCHABLE_PORTFOLIO_ROW_6997      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-FOS_TOUCHABLE_PORTFOLIO_ROW_11296      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/PortfolioRow.tsx
-Created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Distance      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-DPD      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Remark      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Transactions      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_TOUCHABLE_SORT_AND_FILTER_2406      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_TOUCHABLE_SORT_AND_FILTER_4935      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_TOUCHABLE_SORT_AND_FILTER_6412      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Clear All      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_BUTTON_SORT_AND_FILTER_8207      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-Apply      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_BUTTON_SORT_AND_FILTER_8900      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/portfolio/SortAndFilter.tsx
-FOS_TOUCHABLE_OPTIONS_1640      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Options.tsx
-Please answer the questions before moving forward      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-Prev      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-FOS_BUTTON_QUESTIONNAIRE_4744      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-FOS_BUTTON_QUESTIONNAIRE_6038      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-FOS_BUTTON_QUESTIONNAIRE_6585      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/questionnaire/Questionnaire.tsx
-Error fetching reminders      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Error fetching reminders      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Reminder closed successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Fetching Details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Error fetching data      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
-FOS_TOUCHABLE_CALLING_LIST_11615      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Tomorrow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Today      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Are you sure you want to close the reminder?      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 No, Wait      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 Yes, Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
 No Calls Found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingList.tsx
-HH:mm:ss      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingRow.tsx
-h:mm A      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingRow.tsx
-FOS_TOUCHABLE_CALLING_ROW_2855      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingRow.tsx
-FOS_TOUCHABLE_CALLING_ROW_3164      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingRow.tsx
-FOS_TOUCHABLE_CALLING_ROW_3884      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/CallingRow.tsx
 Error fetching visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/PendingList.tsx
 No Pending PTPs Found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/PendingList.tsx
 Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/Reminder.tsx
 Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/Reminder.tsx
 Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/Reminder.tsx
-FOS_TOUCHABLE_REMINDER_4506      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/Reminder.tsx
-MMMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/Reminder.tsx
 Unable to fetch Visit/PTP details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ReminderRow.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ReminderRow.tsx
 Error fetching details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ReminderRow.tsx
-FOS_TOUCHABLE_REMINDER_ROW_3555      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ReminderRow.tsx
 Error fetching visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
-FOS_TOUCHABLE_TO_DO_LIST_3824      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
 Tomorrow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
 Today      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
 No PTPs Found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/reminder/ToDoList.tsx
 Please adjust excess amount in advance payment.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/AmountBifurcation.tsx
-FOS_TEXT_INPUT_AMOUNT_BIFURCATION_9499      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/AmountBifurcation.tsx
 Cheque number is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Cheque date is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Account number is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
@@ -698,30 +459,18 @@ IFSC code is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-
 Bank name is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Branch name is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Please fill the required details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
-FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_5993      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Save      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Cancel      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
-FOS_TOUCHABLE_CHEQUE_METHOD_BOTTOM_SHEET_15896      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/ChequeMethodBottomSheet.tsx
 Resending OTP..      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Invalid OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Please provide correct OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Invalid OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Collection      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Deposit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
-FOS_TOUCHABLE_TASK_BOTTOM_SHEET_6609      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Verifying OTP      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
 Submit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
-FOS_BUTTON_TASK_BOTTOM_SHEET_9754      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskBottomSheet.tsx
-DD MMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFilters.tsx
-DD MMM      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFilters.tsx
-FOS_TOUCHABLE_TASK_FILTERS_3926      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFilters.tsx
 No Filters found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFilters.tsx
-FOS_TOUCHABLE_TASK_FILTERS_TYPE_LIST_1193      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskFiltersTypeList.tsx
-FOS_TOUCHABLE_TASK_HISTORY_FILTERS_1639      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistoryFilters.tsx
 No Filters found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistoryFilters.tsx
-FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7318      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistoryFilters.tsx
-FOS_TOUCHABLE_TASK_HISTORY_FILTERS_7892      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistoryFilters.tsx
-FOS_TOUCHABLE_TASK_HISTORY_FILTERS_TYPE_LIST_1387      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistoryFiltersTypeList.tsx
 Created      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
 Distance      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
 Visit Date      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
@@ -733,32 +482,18 @@ Tomorrow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/compo
 This Week      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
 This Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
 Overall      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
-FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_2498      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
-FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_5832      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
-FOS_TOUCHABLE_TASK_HISTORY_SORT_AND_FILTER_6998      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
 Apply      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
-FOS_BUTTON_TASK_HISTORY_SORT_AND_FILTER_9093      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskHistorySortAndFilter.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Only enabled when 2 or more visits are selected.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
-This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Please plan a new route      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 At max 10 visits can be used to plan route      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
-FOS_TOUCHABLE_TASK_LIST_19541      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Reset      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
-FOS_TOUCHABLE_TASK_LIST_20667      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Plan      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Resume      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskList.tsx
 Closed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
-Closed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
 Missed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
 Open      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
-FOS_TOUCHABLE_TASK_ROW_1578      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
-FOS_TOUCHABLE_TASK_ROW_2733      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
 NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
 Self Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
 Manager Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskRow.tsx
@@ -772,45 +507,27 @@ Tomorrow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/compo
 This Week      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
 This Month      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
 Overall      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
-FOS_TOUCHABLE_TASK_SORT_AND_FILTER_2420      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
-FOS_TOUCHABLE_TASK_SORT_AND_FILTER_5433      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
-FOS_TOUCHABLE_TASK_SORT_AND_FILTER_6239      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
 Clear All      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
-FOS_BUTTON_TASK_SORT_AND_FILTER_8178      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
 Apply      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
-FOS_BUTTON_TASK_SORT_AND_FILTER_8707      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/TaskSortAndFilter.tsx
 NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CircularProgressV2.tsx
-FOS_TOUCHABLE_CUSTOM_BUTTON_834      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomButton.tsx
 Online      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
 Online      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
-FOS_TOUCHABLE_CUSTOM_RADIO_BUTTON_2309      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
 Yes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
 No      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/CustomRadioButton.tsx
-FOS_TOUCHABLE_TAB_1293      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Tab.tsx
-subHeading      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-subHeading2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProBlack      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProBlackOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProHeavy      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProHeavyOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProMedium      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProMediumOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProRoman      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProBook      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProBookOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProLight      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-AvenirLTProLightOblique      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/ui/Typography.tsx
-FOS_TOUCHABLE_LOGIN_SCREEN_1609      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/auth/LoginScreen.tsx
+SUBMIT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Receipt has been downloaded successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Downloading...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Receipt sent      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Payment Receipt      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+Notice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
+TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
 tabPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositHistoryScreen.tsx
-FOS_TOUCHABLE_DEPOSIT_PENDING_SCREEN_891      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositPendingScreen.tsx
 Collections      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositPendingScreen.tsx
 Deposit collection      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositSubmitScreen.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Company Name:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Deposit Id:       ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
-FOS_TOUCHABLE_DEPOSIT_TIMER_SCREEN_9297      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Deposit Successful!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
 Try Again      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/deposit/DepositTimerScreen.tsx
@@ -820,31 +537,7 @@ Portfolio      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/scre
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/PortfolioDetails.tsx
 Loan Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/PortfolioDetails.tsx
 Customer Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/PortfolioDetails.tsx
-FOS_TOUCHABLE_PENDING_DEPOSITS_4013      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
-Select loans!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
-FOS_TOUCHABLE_PENDING_DEPOSITS_5614      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
-No Pending Collections Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
-FOS_TOUCHABLE_PENDING_DEPOSITS_7730      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
-Missed Tasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
-Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
-FOS_TOUCHABLE_PENDING_SCREEN_4501      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-Error fetching loan details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-TaskDetailsV2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-Self Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-Manager Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-FOS_TOUCHABLE_PENDING_TASK_ROW_9233      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-FOS_TOUCHABLE_PENDING_TASK_ROW_9587      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
-FOS_TOUCHABLE_PENDING_TASK_ROW_12515      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
 Are you sure you want to submit the Visit Form?      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Proof of Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Proof of Collection      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 No Email Address and Mobile number found for OTP verification      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
@@ -861,7 +554,6 @@ Please enter correct amount in Collection Amount      ---->>>>>      /Users/saum
 This functionality is supported only with location access      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Invalid field visit type      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Enter valid recovery amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-Enter valid recovery amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Visit closed successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Feedback Form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Please fill the survey form      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
@@ -869,10 +561,8 @@ Fill Now      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/scree
 Fill Later      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Call      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-Reminder created successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Visit      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-Reminder created successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Visit/PTP submitted successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Error      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Reminder Created successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
@@ -887,50 +577,35 @@ DONE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/t
 CLOSE      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Submitting...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-FOS_TOUCHABLE_TASK_DETAILS_V2-2_62004      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Previous      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-FOS_BUTTON_TASK_DETAILS_V2-2_65458      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
-FOS_TOUCHABLE_TASK_DETAILS_V2-2_66236      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2-2.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
-beforeRemove      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Error fetching recovery variables      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Visit Done      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Customer Met      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Amount Collected      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
-TaskDetailsV2-2      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
-FOS_BUTTON_TASK_DETAILS_V2_25597      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskDetailsV2.tsx
 Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/tasks/TaskScreen.tsx
-SUBMIT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Receipt has been downloaded successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Downloading...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Receipt sent      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4169      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-FOS_TOUCHABLE_RECEIPT_P_D_F_SCREEN_4562      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-SUBMIT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Payment Receipt      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Notice      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-SUBMIT      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/history/ReceiptPDFScreen.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
+Select loans!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
+No Pending Collections Found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingDeposits.tsx
+Missed Tasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+Drawer      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingScreen.tsx
+Error fetching loan details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+No Address found!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+Self Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+Manager Scheduled      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
+NA      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/pendingTasks/PendingTaskRow.tsx
 Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
-Home      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
-Work      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
-Other      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Please fill the required details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Default Address Updated successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Some error occurred      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Address Added Successfully      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
-FOS_TOUCHABLE_ADD_ADRESS_MAP_10569      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 No address found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Mark address as default      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
-FOS_TOUCHABLE_ADD_ADRESS_MAP_16196      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Add Address      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/BottomSheets/AddAdressMap.tsx
 Failed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Capsules/DepositStatusCapsule.tsx
 Success      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Capsules/DepositStatusCapsule.tsx
@@ -944,18 +619,11 @@ PTPs      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/component
 Surprise Visits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
 Deposits      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
 PendingTasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
-PendingTasks      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
-FOS_TOUCHABLE_APP_ALERT_DIALOG_2983      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
-FOS_TOUCHABLE_APP_ALERT_DIALOG_5048      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
-FOS_TOUCHABLE_APP_ALERT_DIALOG_5709      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/AppAlertDialog.tsx
-FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_3093      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/FileSelectorDialog.tsx
 Open Settings      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/FileSelectorDialog.tsx
-FOS_TOUCHABLE_FILE_SELECTOR_DIALOG_5424      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/FileSelectorDialog.tsx
 Open Camera      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/FileSelectorDialog.tsx
 Select from Gallery      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/FileSelectorDialog.tsx
 Allow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/LocationDialog.tsx
 Restart App      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/LocationDialog.tsx
-Allow      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/LocationDialog.tsx
 Skip      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/LocationDialog.tsx
 Close App      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/MockLocationEnabled.tsx
 Restart App      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/NoLocationProviderModal.tsx
@@ -968,49 +636,26 @@ Switch Accounts      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/Ap
 Loading      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/NoPermission.tsx
 Try Again      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/RetryLocationVisit.tsx
 Go Back      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/RetryLocationVisit.tsx
-FOS_BUTTON_SIMPLER_ALERT_DIALOG_1989      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/SimplerAlertDialog.tsx
-FOS_BUTTON_SIMPLER_ALERT_DIALOG_2522      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/Dialogs/SimplerAlertDialog.tsx
-FOS_TOUCHABLE_EXPANDABLE_AMOUNT_CARD_6573      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableAmountCard.tsx
-Total Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-FOS_TOUCHABLE_EXPANDABLE_CARD_12356      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-Total Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-FOS_TOUCHABLE_EXPANDABLE_CARD_22680      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
-FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_3539      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCardHelpSection.tsx
-FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_5264      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCardHelpSection.tsx
- Branch      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCardHelpSection.tsx
-FOS_TOUCHABLE_EXPANDABLE_CARD_HELP_SECTION_6337      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCardHelpSection.tsx
-FOS_TOUCHABLE_HELP_SECTION_COMPONENT_1355      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/HelpSection/HelpSectionComponent.tsx
-FOS_TOUCHABLE_EXPANDABLE_VIEW_3537      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ExpandableView.tsx
-FOS_TOUCHABLE_ITEM_ROW_2701      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 TASK      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 Receipt sent      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
-FOS_TOUCHABLE_ITEM_ROW_4857      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
-FOS_TOUCHABLE_ITEM_ROW_6126      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
-FOS_TOUCHABLE_ITEM_ROW_7172      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 View responses      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 Fill feedback      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 Yes      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 No      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
-No      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/ItemRow.tsx
 View      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/PdfButton.tsx
-FOS_TOUCHABLE_PDF_BUTTON_814      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableView/PdfButton.tsx
-FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4469      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ProofSelector/ImageSelectorInput.tsx
-FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_4938      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ProofSelector/ImageSelectorInput.tsx
-FOS_TOUCHABLE_IMAGE_SELECTOR_INPUT_6673      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ProofSelector/ImageSelectorInput.tsx
+Total Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
+Total Amount      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
+Less      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
+More      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCard.tsx
+Branch      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/common/ExpandableCard/ExpandableCardHelpSection.tsx
 Payment date is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/BankTransferScreen.tsx
 UTR number is required      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/BankTransferScreen.tsx
 Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/BankTransferScreen.tsx
-FOS_BUTTON_BANK_TRANSFER_SCREEN_3826      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/BankTransferScreen.tsx
 Proof of Collection      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/OtherMethodsScreen.tsx
 Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/OtherMethodsScreen.tsx
-FOS_BUTTON_OTHER_METHODS_SCREEN_2185      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/OtherMethodsScreen.tsx
-react-native-vector-icons/AntDesign      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Proof of Collection      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 SMS      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 E-mail      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_4585      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Contact your supervisor to add at least one Bank details      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 No Payment link found! Please check with your admin      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Loan ID not found      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
@@ -1021,14 +666,9 @@ Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/component
 No template found! Please use the QR scanner method.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Payment Link Sharing Failed      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 QR display failed!      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_31148      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Resend      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Retry      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_32893      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34435      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_34928      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
-FOS_TOUCHABLE_PAYMENT_BOTTOM_SHEET_35863      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
- Generate QR      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
+Generate QR      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Send Payment Link      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/PaymentBottomSheet.tsx
 Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/components/tasks/PaymentBottomSheet/UtrNumberTextInput.tsx
 Field Visit/PTP already open for this loan.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/ErrorTask.tsx
@@ -1039,11 +679,9 @@ Loan Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screen
 Customer Id      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Not Available      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 This time has passed, please select a future time.      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
-hardwareBackPress      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Processing...      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Visit Purpose      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Date      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Time      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Add Comment      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
 Create      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx
-Avenir Next      ---->>>>>      /Users/saumyabhatnagar/credgenics-fos-app/App/screens/portfolio/NewTask/NewTask.tsx

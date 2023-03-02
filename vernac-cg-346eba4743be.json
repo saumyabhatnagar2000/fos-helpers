@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vernac-cg",
+  "private_key_id": "346eba4743becf9721a250136531ba370ecd1484",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoZKGQ6SHdjna1\n+rWttUWzMOkt95XF4/wbhKt3o4wzhWr5I2uQCoHXDuwLrGN949JKK4y7R7jZQxNV\n0hkbRCI0Qy2u10Vr3/v3SWHg1QMwlqUX3qncwPG2iDSVd6di32DsLscfhQAcaiYn\nmZl7k7Y3i0kk27LEQBO1ZI8dxcRkl2C89Z765HQRaWb2lhPp9ZPFMZ5McqaJoqYA\n70lAl1vXbwbK9cu7YLhBcanwRAaNvRBRD0z5tndDxERQ2JFiIl3rc8AanJPbkPxE\nCHNbTB8jxxKwD1g9fYXkMgXfjsiL4hlL9/CMISucy82kN8o0JG074zuCUoTkcpQ5\nv5KHVZVpAgMBAAECggEAEQxXGx+vMQoaVKQ0PojqrJCYGvJE9Ir3XCXbYjppmFG6\nmcyPOD8IFCjLlwb176ngAWhVUCSbv0s+KuMhbZRBTj864cejnJ9JmCiSwzttnj6y\nKi99zP6vugYiJLu/c5Af9OlreXJyp23LvRic5Fj5CriMSDIB8EJ4fFXY82+xSWmr\n8+FgiswJePch4KNgMCclZ74SEsXpXzHOlDT+AnnHh3s+kfRy2YS88v3YKDhPfbCb\nT7jmHgIArl7q99nDqlcRNUIwiN3483dufJ8on4AfzUXK+KWpxXfrhDAzKLpGlibl\nZd9QsTREAEDcDFQKL+KKwK4eWwlIC5ZQP2aNDRF1bQKBgQDQ6grulgCBbOdO69me\nRgma5DFU0sxykTUUeNLf8+Xo1WLrMJyjgU/gEFNMDpaarPWRb9PWaBLGhsxRPKf6\np3H5YYr2c5TPEobQ/dBIRSTRt6T9MsWiAeMvl9/9YpselrxV7hJFaX/hmV9vnvN+\n5fSfbAqfgjUSXTnBkftpdbBsEwKBgQDOWJhWBn5PIGoQBoVUq3igEIRxGzKt2dMW\n/Z0UAzM+QS2ie3seMkmyvOntI4ViE+/ain0tOcfa2097XSk88SPtsI3unPDHs2E2\n9oUh6rfwf6Ih5XAzqXYbpbqUljUDB6YbxR5TVppzs61UcdYyOqyOwh2OacUgiziF\nRLEy2F4wEwKBgB3MhGqrsr7DTesP8SaGTvBtBCxZNRhSZgPZiBqxq2WeqlFpya34\nz+/h5D/BBPJjIVPxY4H9rk/rAlHEGSHDqJots6ibq+otdlVxHrhwRGQ1ka8cAtys\n8D7lpul5my6tyYdoQerstXT0b4x4W7sKCe6DdrBx3igUbByUOgw84UFJAoGAMnsI\nIZuLEQ6MBAmkWrdsVjRUQlt2BYQRmUFISVoTEjrd0C9HSnbhAsImtGYJPppEBoH0\n57iIBSm8AyEico9Hy+Fyh5qLaT+gG9MpdMe4YjTHVGWOEoV1qIPd5nXs2CXp5EdQ\nCPFZ7c5aLBuBXF5wUqh4lJuZp0GH/Up100uNl1MCgYEAjzoclz0/jUxbkr0bord9\nstf0AGYNK0XK8TtvvrzHtbf/YWOvs9CQ83Qy926D1KQS/sy3k7On6hsPUrCKm3af\nQZjLtUOg25GySiqN8gS42SHWTODMNA7HmyJHQf1xWviDCn9BLuEJROsw5g3/hox9\nnl7kCIia2M+4YF/I+NcvtWw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-vernac@vernac-cg.iam.gserviceaccount.com",
+  "client_id": "101810950546830332392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-vernac%40vernac-cg.iam.gserviceaccount.com"
+}
